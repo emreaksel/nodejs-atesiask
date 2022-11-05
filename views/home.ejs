@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<!--shift+alt+F ile kod düzenleme yapabilirsin-->
+<!--EJS language support extension indirmeden < % bu yapıyı kullanamıyorsun -->
+<head>
+    <title>Karşılama Sayfası</title>
+</head>
+
+<body>
+    <p>Karşılama Sayfası</p>
+    <h1></h1>
+    <h2></h2>
+
+
+    <script>
+        document.querySelector("p").style.color="red";
+        document.querySelector("h1").innerText="evo1 ";
+        
+        var getTest = "<%= isim  %>";
+        document.querySelector("h2").innerText="evo2 "+getTest;
+    </script>
+</body>
+
+</html>
