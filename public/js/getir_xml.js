@@ -1,29 +1,30 @@
 import puppeteer from 'puppeteer';
-import xml2js from 'xml2js';
+import xml2js from 'xml2js'; //xml ayıklamak için
 import http from 'http';
+import jsdom from 'jsdom'; //başsız bir tarayıcı gibi davranır bununla string bir ifadeyi html yapıp ayıklayacağım
 
 export async function foo() {
     //some async initiallizers
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
-    await page.goto('http://kardelendergisi.com/atesiask/baska.xml');
+    await page.goto('http://kardelendergisi.com/atesiask/atesiask/index.php');
 
     //const heading1 = await page.$eval("#folder0 > div.opened > div:nth-child(6) > span > span:nth-child(1) > span.html-attribute-value", el => el.textContent);
     //console.log(heading1)
     //console.log("--------------");
 
     const list_baska_xml = await page.evaluate(() =>
-        Array.from(document.querySelectorAll("#folder0 > div.opened > div.line > span"), (element) => element.textContent)
+        Array.from(document.querySelectorAll("img"), (element) => element.src)
     );
     console.log("asynctask: " + list_baska_xml[list_baska_xml.length - 1])
 
-    const titles = await page.evaluate(() =>
+    /* const titles = await page.evaluate(() =>
         Array.from(
             document.querySelectorAll("#folder0 > div.opened > div.line > span.html-tag > span > span.html-attribute-value"),
             (element) => element.textContent
         ).filter(listedebirsey => listedebirsey.includes(".jpg") !== true || listedebirsey.includes(".png") !== true)
     );
-    console.log(titles);
+    console.log(titles); */
 
     await browser.close();
 
@@ -34,13 +35,17 @@ export async function foo() {
     //return {dinlemelistesi:list_baska_xml};
     //return [{ id: 50254, title:"Ateş-i Aşk", isim: "emre",hediye:list_baska_xml }];
 }
-
 export function getirXML() {
-
-    return getData();
-    
+    return getData_Xml();
 }
-function getData() {
+export function getirNukte() {
+    return getData_Nukte();
+}
+export function getirFotograf() {
+    return getData_Fotograf();
+}
+//========================================
+function getData_Xml() {
     var parser = new xml2js.Parser();
     var data = '';
     var liste = [];
@@ -68,6 +73,56 @@ function getData() {
             console.log("Got error: " + e.message);
             resolve("Got error");
         });
-        
+
+    });
+}
+function getData_Nukte() {
+    var parser = new xml2js.Parser();
+    var data = '';
+    var liste = [];
+    return new Promise((resolve) => { //sonucu böyle döndürmezsek içirideki kodu beklemeden devam ediyor
+        http.get("http://kardelendergisi.com/atesiask/quotes.txt", async function (res) {
+            if (res.statusCode >= 200 && res.statusCode < 400) {
+                res.on('data', function (data_) { data += data_.toString(); });
+                res.on('end', function () {
+                    //console.log('data', data.split("\r").length,data.split("\r")[data.split("\r").length-1]);
+                    resolve(data.split("\r"));
+                });
+            }
+
+        }).on('error', function (e) {
+            console.log("Got error: " + e.message);
+            resolve("Got error");
+        });
+
+    });
+}
+function getData_Fotograf() {
+    var parser = new xml2js.Parser();
+    var data = '';
+    var liste = [];
+    return new Promise((resolve) => { //sonucu böyle döndürmezsek içirideki kodu beklemeden devam ediyor
+        http.get("http://kardelendergisi.com/atesiask/atesiask/index.php", async function (res) {
+            if (res.statusCode >= 200 && res.statusCode < 400) {
+                res.on('data', function (data_) { data += data_.toString(); });
+                res.on('end', function () {
+                    const { JSDOM } = jsdom;
+                    const dom = new JSDOM(data);
+                    //console.log(dom.window.document.querySelectorAll("img").length); 
+                    var g_img=dom.window.document.querySelectorAll("img");
+                    for (const item of g_img) {
+                        if(item.src.includes(".jpg") || item.src.includes(".png")) liste.push(`http://kardelendergisi.com/atesiask/atesiask/${item.src}`);
+                    }
+                    console.log(liste, liste.length)
+                    resolve(liste);
+
+                });
+            }
+
+        }).on('error', function (e) {
+            console.log("Got error: " + e.message);
+            resolve("Got error");
+        });
+
     });
 }
