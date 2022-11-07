@@ -84,7 +84,7 @@
                         <div class="row">
                             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                                 <div class="player_img d-flex justify-content-center align-items-center">
-                                    <div id="resim" class="resim-sever"></div>
+                                    <img id="resim" class="resim-sever"></img>
                                     <div class="marquee_div">
                                         <marquee class="marquee" behavior="scroll" direction="left" scrollamount="1">Aşk
                                             Olsun
@@ -213,12 +213,10 @@
             $('.player_btns').css('height', parseInt(parseInt(H) * 0.5) + "px");
             $('.player_playlist').css('height', parseInt(parseInt(H) * 0.90) + "px");
         }
-
         window.addEventListener('resize', function (event) {
             ui($('body').css('height'), $('body').css('width'));
             konsola_yaz("resize", "detect-resize")
         }, true);
-
         $(window).on('load', function () { // makes sure the whole site is loaded
             $('#status').fadeOut(); // will first fade out the loading animation
             $('#preloader').delay(100).fadeOut('slow'); // will fade out the white DIV that covers the website.
@@ -226,6 +224,7 @@
             $('#sharePopup').modal();
         });
 
+        
         var listen_index = 0;
         var track_index = 0;
         var share_index = 0;
@@ -257,6 +256,22 @@
 
         // dinlenmiş parça listesi
         var track_list_before = new Array(); //önceki parça için bir sayı tutuyor
+
+        $.ajax({
+            url:"/",
+            method:"POST",
+            async:true,
+            data:{ 
+                istek:"getir_fotograf",
+                resim: `${list_images[Math.floor(Math.random() * list_images.length)]}` 
+            },
+            success:function(res){
+                //console.log("ajax oldu", res.yanit);
+                $(".resim-sever").attr("src",res.yanit);
+                $(".resim-sever").css("height", "100%");
+                $(".resim-sever").css("width", "100%");
+            }
+        });
         //----------------------
         var bul = document.getElementById('bul');
         bul.onkeyup = function () {
@@ -488,13 +503,13 @@
         function setImage() {
             //var adres1 = "https://raw.githubusercontent.com/emreaksel/askatesi/main/img/";
             //var adres = adres1 + list_images[Math.floor(Math.random() * list_images.length)];
-            $(".resim-sever").css("background-image", "url('" + list_images[Math.floor(Math.random() * list_images.length)] + "')");
+            /* $(".resim-sever").css("background-image", "url('" + list_images[Math.floor(Math.random() * list_images.length)] + "')");
             $(".resim-sever").css("background-repeat", "no-repeat");
             $(".resim-sever").css("background-size", "cover");
             $(".resim-sever").css("background-position", "center center");
             $(".resim-sever").css("border-radius", "5px");
             $(".resim-sever").css("height", "100%");
-            $(".resim-sever").css("width", "100%");
+            $(".resim-sever").css("width", "100%"); */
         }
         function setListview() {
             track_list = track_list.reverse();
