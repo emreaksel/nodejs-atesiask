@@ -14,11 +14,18 @@ heroku da yayımlamak için https://www.youtube.com/watch?v=skGNRkosnQU&ab_chann
 */
 
 import express from 'express';
+var app = express();
+app.use(express.static(path.resolve() + '/public')); //css, js, images flasörlerini saklamak için
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
+//----------------
+import bodyParser from 'body-parser';//req.body kullanıcı tarafından kontrol edilen girdiye dayandığından, bu nesnedeki tüm özellikler ve değerler güvenilir değildir ve güvenmeden önce doğrulanmalıdır.
+app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.json());
+//---------------
 import { MongoClient } from 'mongodb'
-
 const url = "mongodb+srv://atesiask:P1GHu5R4tBpRDj9j@cluster0.8x77kki.mongodb.net/?retryWrites=true&w=majority";
 const client = new MongoClient(url);
-
 /* async function main() {
     // Use connect method to connect to the server
     await client.connect();
@@ -36,17 +43,14 @@ main()
     .catch(console.error)
     .finally(() => client.close()); */
 
-
-var app = express();
 import path from 'path';
-import { foo, getirXML, getirNukte, getirFotograf } from './public/js/getir_xml.js'; //import * as x from './public/js/getir_xml.js'  her şeyi getir
+import { foo, getirXML, getirNukte, getirFotograf_base64,getirFotograf } from './public/js/getir_xml.js'; //import * as x from './public/js/getir_xml.js'  her şeyi getir
 //const __dirname = path.resolve();
 
 const degiskenismi = { id: 50254, title: "Ateş-i Aşk", isim: "emre" };
 
 app.set('view engine', 'ejs'); //home.ejs yazmak yerine tüm sayfalar ejs olarak oluşturulacak demek istiyor
-app.use(express.static(path.resolve() + '/public')); //css, js, images flasörlerini saklamak için
-//foo();
+
 app.get("/", async function (req, res) {
     //var dinlemelistesi=xml.map();
     //console.log(`Xml: ${xml.dinlemelistesi}`);
@@ -59,6 +63,14 @@ app.get("/", async function (req, res) {
     degiskenismi.nukte_listesi = nukte_listesi;
     degiskenismi.fotograf_listesi = fotograf_listesi;
     res.render("atesiask", degiskenismi); //    ./sayfalar/home.ejs yapmıştım ama illa ki views klasörü istedi, kütüphane direkt views içine bakıyor
+});
+app.post("/", async function (req, res) {
+    //console.log(req.body.resim);
+    if (req.body.istek=="getir_fotograf") {
+        var resimbase64 = await getirFotograf_base64(req.body.resim);
+        res.send({ yanit: resimbase64 });
+    }
+    
 });
 app.get("/test", async function (req, res) {
     res.send("test page");
