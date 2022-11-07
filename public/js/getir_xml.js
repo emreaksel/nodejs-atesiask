@@ -2,38 +2,20 @@ import puppeteer from 'puppeteer';
 import xml2js from 'xml2js'; //xml ayıklamak için
 import http from 'http';
 import jsdom from 'jsdom'; //başsız bir tarayıcı gibi davranır bununla string bir ifadeyi html yapıp ayıklayacağım
+import base64Img from 'base64-img';
 
 export async function foo() {
-    //some async initiallizers
-    const browser = await puppeteer.launch();
-    const page = await browser.newPage();
-    await page.goto('http://kardelendergisi.com/atesiask/atesiask/index.php');
-
-    //const heading1 = await page.$eval("#folder0 > div.opened > div:nth-child(6) > span > span:nth-child(1) > span.html-attribute-value", el => el.textContent);
-    //console.log(heading1)
-    //console.log("--------------");
-
-    const list_baska_xml = await page.evaluate(() =>
-        Array.from(document.querySelectorAll("img"), (element) => element.src)
-    );
-    console.log("asynctask: " + list_baska_xml[list_baska_xml.length - 1])
-
-    /* const titles = await page.evaluate(() =>
-        Array.from(
-            document.querySelectorAll("#folder0 > div.opened > div.line > span.html-tag > span > span.html-attribute-value"),
-            (element) => element.textContent
-        ).filter(listedebirsey => listedebirsey.includes(".jpg") !== true || listedebirsey.includes(".png") !== true)
-    );
-    console.log(titles); */
-
-    await browser.close();
-
-    //exports.Array(list_baska_xml);
-
-    //resolve the export promise
-    return list_baska_xml;
-    //return {dinlemelistesi:list_baska_xml};
-    //return [{ id: 50254, title:"Ateş-i Aşk", isim: "emre",hediye:list_baska_xml }];
+    var url = 'http://kardelendergisi.com/atesiask/atesiask/20220501_113352.jpg';
+    return new Promise((resolve) => { //sonucu böyle döndürmezsek içirideki kodu beklemeden devam ediyor
+        base64Img.requestBase64(url, function (err, res, body) {
+            if (err) console.log(err)
+            else {
+                //console.log(res)
+                //console.log(body)  
+                resolve("rarar");
+            }
+        });
+    });
 }
 export function getirXML() {
     return getData_Xml();
@@ -43,6 +25,10 @@ export function getirNukte() {
 }
 export function getirFotograf() {
     return getData_Fotograf();
+}
+export function getirFotograf_base64(url) {
+    //console.log(getData_Fotograf_base64());
+    return getData_Fotograf_base64(url);
 }
 //========================================
 function getData_Xml() {
@@ -109,11 +95,11 @@ function getData_Fotograf() {
                     const { JSDOM } = jsdom;
                     const dom = new JSDOM(data);
                     //console.log(dom.window.document.querySelectorAll("img").length); 
-                    var g_img=dom.window.document.querySelectorAll("img");
+                    var g_img = dom.window.document.querySelectorAll("img");
                     for (const item of g_img) {
-                        if(item.src.includes(".jpg") || item.src.includes(".png")) liste.push(`http://kardelendergisi.com/atesiask/atesiask/${item.src}`);
+                        if (item.src.includes(".jpg") || item.src.includes(".png")) liste.push(`http://kardelendergisi.com/atesiask/atesiask/${item.src}`);
                     }
-                    console.log(liste, liste.length)
+                    //console.log(liste, liste.length)
                     resolve(liste);
 
                 });
@@ -124,5 +110,19 @@ function getData_Fotograf() {
             resolve("Got error");
         });
 
+    });
+}
+function getData_Fotograf_base64(url) {
+    //var url = 'http://kardelendergisi.com/atesiask/atesiask/20220501_113352.jpg';
+    return new Promise((resolve) => { //sonucu böyle döndürmezsek içirideki kodu beklemeden devam ediyor
+        base64Img.requestBase64(url, function (err, res, body) {
+            if (err) console.log(err)
+            else {
+                //console.log(res)
+                //console.log(body)  
+                resolve(body);
+            }
+        });
+        //resolve(url);
     });
 }
