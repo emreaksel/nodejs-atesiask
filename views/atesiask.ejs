@@ -224,7 +224,7 @@
             $('#sharePopup').modal();
         });
 
-        
+
         var listen_index = 0;
         var track_index = 0;
         var share_index = 0;
@@ -258,16 +258,16 @@
         var track_list_before = new Array(); //önceki parça için bir sayı tutuyor
 
         $.ajax({
-            url:"/",
-            method:"POST",
-            async:true,
-            data:{ 
-                istek:"getir_fotograf",
-                resim: `${list_images[Math.floor(Math.random() * list_images.length)]}` 
+            url: "/",
+            method: "POST",
+            async: true,
+            data: {
+                istek: "getir_fotograf",
+                resim: `${list_images[Math.floor(Math.random() * list_images.length)]}`
             },
-            success:function(res){
+            success: function (res) {
                 //console.log("ajax oldu", res.yanit);
-                $(".resim-sever").attr("src",res.yanit);
+                $(".resim-sever").attr("src", res.yanit);
                 $(".resim-sever").css("height", "100%");
                 $(".resim-sever").css("width", "100%");
             }
@@ -419,16 +419,18 @@
             else pauseTrack();
         }
         function playTrack() {
-            curr_track.play().then(() => {
+            curr_track.play();
+            setTimeout(function () {
                 updateMetadata();
                 isPlaying = true;
-            });
+            }, 200);
         }
         function pauseTrack() {
-            curr_track.pause().then(() => {
+            curr_track.pause();
+            setTimeout(function () {
                 updateMetadata();
                 isPlaying = false;
-            });
+            }, 200);
         }
         function prevTrack() {
             if (listen_index > 0) {
