@@ -70,7 +70,6 @@ app.post("/", async function (req, res) {
         var resimbase64 = await getirFotograf_base64(req.body.resim);
         res.send({ yanit: resimbase64 });
     }
-    
 });
 app.get("/test", async function (req, res) {
     res.send("test page");
