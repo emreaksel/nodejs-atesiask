@@ -1,0 +1,655 @@
+
+       
+T.C.
+          KOCAELÝ BÜYÜKÞEHÝR BELEDÝYE BAÞKANLIÐI KOCAELÝ SU VE KANALÝZASYON ÝDARESÝ GENEL MÜDÜRLÜÐÜ (ÝSU)
+TARÝFELER VE ABONE HÝZMETLERÝ YÖNETMELÝÐÝ
+BÝRÝNCÝ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanýmlar
+Amaç
+      MADDE 1-(1) Bu Yönetmeliðin amacý; Kocaeli Su ve Kanalizasyon Ýdaresi Genel Müdürlüðünün (ÝSU) su satýþý ve atýksularýn uzaklaþtýrýlmasý hizmetleri ve abone hizmetleri ile ilgili tarifelerin tespiti, tarifelerin tespitinde esas alýnacak usul ve esaslarý, tespit edilen bedellerin hangi usul ve esaslara göre tahakkuk ve tahsil edileceðini belirlemektir.
+Kapsam
+      MADDE 2-(1) Bu Yönetmelik, 23/11/1981 tarihli ve 2560 sayýlý ÝSKÝ Kuruluþ ve Görevleri Hakkýnda Kanunun 1 inci maddesiyle belirlenen görev alaný içerisinde, her türlü su kaynaklarýndan saðlanan içme, kullanma ve endüstri suyunun tüketicilere ulaþtýrýlmasý ve kullanýmdan sonra uzaklaþtýrýlmasýna iliþkin her türlü hizmet, bedel, pay, teminat ve yaptýrýmlarýn tespiti ile bunlarýn tahakkuk ve tahsiline iliþkin usul ve esaslarý kapsar.
+Dayanak
+      MADDE 3– (1) Bu Yönetmelik, 3/7/2005 tarihli ve 5393 sayýlý Belediye Kanununun 14 üncü maddesinin birinci fýkrasýnýn (a) bendi, 15 inci maddesinin birinci fýkrasýnýn (b) bendi ve 23/11/1981 tarihli ve 2560 sayýlý Ýstanbul Su ve Kanalizasyon Ýdaresi Genel Müdürlüðü Kuruluþ ve Görevleri Hakkýnda Kanunun 23 üncü ve Ek 5 inci maddelerine dayanýlarak hazýrlanmýþtýr.
+Tanýmlar
+MADDE 4- (1) Bu Yönetmeliðin uygulanmasýnda;
+      a) Abone: Ýdarece sunulan su ve/veya atýksu hizmetlerinden abonelik sözleþmesi kapsamýnda faydalanan veya faydalanacak gerçek veya tüzel kiþiyi,
+      b) Abonelik: Ýdarece sunulan su ve/veya atýksu hizmetlerinden abonelik sözleþmesi kapsamýnda faydalanýlan veya faydalanýlacak yeri,
+c) Abone grubu: Ayný hizmet standardýna tabi gerçek ve tüzel kiþileri,
+      ç) Abone yolu: Parsel sýnýrýnda þube yolunun bitiminden baþlayýp sayaçlarýn baðlandýðý kolon borusuna kadar olan kýsmý,
+d) Ahýr: Ticari maksatlý olmayan hayvan yetiþtirme yerlerini,
+       e) Alýcý ortam (Mansap): Atýksularýn deþarj edildiði veya dolaylý olarak karýþtýðý göl, akarsu ve yeraltý sularý gibi yakýn veya uzak çevreyi,
+      f) Altyapý: Planlanan veya mevcut atýksu kanal hatlarý, toplayýcý ve kuþaklama kolektörleri, mekanik ve biyolojik arýtma tesisleri, ara terfi, deþarj pompalarý, deþarj hatlarý, içme suyu þebekeleri, isale hatlarý, arýtma tesisleri, su hazneleri, terfi merkezleri, baraj, regülâtör, yol, elektrik, doðalgaz, telefon ve benzeri tesislerden müteþekkil sistemleri,
+g) Atýksu: Kullaným sonucu kirlenmiþ ve özellikleri deðiþmiþ sularý,
+      ð) Atýksu arýtma tesisi: Atýksularýn kanalizasyon þebekesine veya alýcý ortama deþarjýndan önce arýtýlmalarý için Ýdarece kurulan veya kirletici kaynaklardan Ýdarece kurulmasý istenecek her türlü tesisleri,
+      h) Atýksu baðlantý kanalý (Rabýt): Üretilen atýksularý, kanalizasyon þebekesine ileten ve güzergâhý, boru cins ve çapý, eðimi gibi baðlantý koþullarý Ýdarece belirlenen hattý,
+      ý) Atýksu çukuru (Fosseptik): Kanalizasyon þebekesi bulunmayan yerlerdeki atýksularýn toplandýðý ve dengelendiði, çevreyi kirletmeyecek þekilde sýzdýrmaz, fen ve sanat kaidelerine uygun olarak parsel içerisinde inþa edilen hazneleri,
+      i) Atýksu kaynaklarý: Kullaným veya faaliyetleri neticesinde atýksu üreten her türlü yapý ve faaliyet yerlerini,
+      j) Çevre temizlik vergisi (ÇTV): 2464 sayýlý Belediye Gelirleri Kanununun Mükerrer 44 üncü maddesi çerçevesinde tahsil edilen ve ilgili belediyesine aktarýlan vergiyi,
+      k) Dahili tesisat: Kolon borusundan itibaren sayaç, sayaç kolektörü ve baðýmsýz birime ayrý su daðýlýmý yapýlan bina içi su tesisatýný,
+      l) Deþarj kalite kontrol ruhsatý (DKKR): Ýdare tarafýndan düzenlenen ve endüstriyel atýksularýn kanalizasyon þebekesine doðrudan ve dolaylý baðlanma ve boþaltýlma þartlarýný tespit eden belgeyi,
+m) Endüstriyel atýksu: Evsel atýksular hariç, tüm sanayi tesisleri ile imalathanelerin, ticari
+iþletmelerin, sanayi sitelerinin her türlü üretim, iþlem ve prosesi sonucu kirlenmiþ veya özelliklerini kaybetmiþ sularý,
+      
+      n) Evsel atýksu: Konutlardan veya yerleþim bölgelerinden kaynaklanan, insanlarýn ihtiyaçlarýný karþýlamada kullandýklarý ve kullaným neticesinde kirlenmiþ veya özellikleri deðiþmiþ sularý,
+      o) Geçici kapatma: Abonenin geçici bir süre için su kullanmayacaðýný beyan ederek suyunu kapattýrmasýný,
+      ö) Genel Kurul: Kocaeli Büyükþehir Belediyesi Su ve Kanalizasyon Ýdaresi (ÝSU) genel kurulunu,
+      p) Genel ortalama tüketim: Bir abonenin her hangi bir abonelikteki tüm tüketimleri dikkate alýnarak bulunan günlük ortalama tüketimi,
+      r) Hidrofor þartý: Þube yolu bitiminde abonelere verilen suyun basýncý minimum 3 bardýr. Kot farký veya bina yüksekliði nedeniyle yeterli basýnç saðlanmayan yerlerde hidrofor kullanýmý þartýný,
+      s) Ýdare (Kurum): Kocaeli Su ve Kanalizasyon Ýdaresi Genel Müdürlüðü (ÝSU)’nü, kýsa adý ÝSU Genel Müdürlüðü’nü
+      þ) Ýsimsiz kullaným: Daha önce abonelik açýlmýþ olan ancak abonelik sözleþmesi iptal ya da feshedilen yerlerde, abonelik sözleþmesi yapýlmadan su kullanýlmasý ve/veya atýksu üretilmesini,
+      t) Ýþ emri: Ýdarenin ilgili birimlerine gönderilmek üzere düzenlenen ve hangi iþin yapýlacaðýný belirten talimatý,
+      u) Kanalizasyon þebekesi: Atýksularý toplamaya, uzaklaþtýrmaya ve arýtma tesislerine iletmeye yarayan tesis ve sanat yapýlarýndan meydana gelen birbirleriyle baðlantýlý muhtelif çap ve kesitlerdeki hatlarý,
+      ü) Kapatma/Açma: Kanun, yönetmelik ve sözleþmeye aykýrýlýk nedenleriyle, tahliye nedeniyle veya abonenin isteði üzerine suyun kapatýlmasýný; kapatmayý gerektiren fiil veya hukuki durumun ortadan kalkmasý halinde suyun açýlmasýný,
+      v) Kartlý sayaç: Abonenin bedelini daha önceden ödediði miktarda su kullanýmýna imkân veren, Ölçü ve Ölçü Aletleri Muayene Yönetmeliðine tâbi ve Ýdarenin sistemine uyum saðlayan ölçü aletini,
+      y) Katýlma payý: 2464 sayýlý Belediye Gelirleri Kanununda belirtilen oran ve esaslara göre alýnacak su ve kanalizasyon harcamalarýna katýlma paylarýný,
+      z) Kaynak suyu: Jeolojik koþullarý uygun jeolojik birimlerin içinde doðal olarak oluþan, bir veya daha fazla çýkýþ noktasýndan yeryüzüne kendiliðinden çýkan veya teknik usullerle çýkartýlan ve Ýnsani Tüketim Amaçlý Sular Hakkýnda Yönetmeliðin 36 ncý maddesinde izin verilenler dýþýnda her hangi bir iþleme tabi tutulmaksýzýn ayný Yönetmeliðin Ek-1'indeki nitelikleri taþýyan, etiketleme gerekliliklerini karþýlayan ve satýþ amacý ile ambalajlanarak piyasaya arz edilen yeraltý sularýný,
+aa) Kesme aparatý: Su kesme iþlemine yarayan aleti,
+      bb) Kirleten: Faaliyetleri sýrasýnda veya sonrasýnda doðrudan veya dolaylý olarak çevre kirliliðine, ekolojik dengenin ve çevrenin bozulmasýna neden olan gerçek ve tüzel kiþileri,
+      cc) Kirleten öder ilkesi: Atýklarýn oluþturduðu veya oluþturmasý muhtemel çevresel kirlenme ve bozulmayý önlemek, sýnýrlandýrmak, gidermek ve çevrenin iyileþtirilmesini saðlamak için yapýlan ve/veya yapýlacak tüm yatýrýmlarýn ve harcamalarýn kirletenler veya bozulmaya neden olanlar tarafýndan karþýlanacaðý ilkesini,
+      çç) Kirlilik yükü bedeli (KYB): Özel arýtma gerektiren, kirlilik yükü fazla atýksu üreten kaynaklardan, gerekli tedbirleri alýncaya kadar veya yeterli ölçüde tedbir almadýklarýnýn tespiti neticesinde Ýdare tarafýndan yapýlan iþlerin giderleri ile birlikte alýnacak bedeli,
+dd) Kolon: Her müstakil birime ayrý su daðýlýmýnýn yapýldýðý bina içinde yer alan ana boruyu,
+      ee) Kontrol bacasý (Fenni baca): Atýksu deþarjlarýný kontrol amacýyla numune almak, ölçüm yapmak, atýksu akýmýný izlemek için içine girilebilir, projesi Ýdarece belirlenecek bacalarý,
+      ff) Köy yerleþik alan sýnýrý: Köy ve mezralarýn cami, köy konaðý gibi köy ortak yapýlarý ile köy nüfusuna kayýtlý ve köyde sürekli oturanlar tarafýndan, yapýmý tarihinde yürürlükte bulunan mevzuat hükümlerine uygun olarak inþa edilmiþ yapýlarýn toplu olarak bulunduðu yerlerde mevcut binalarýn en dýþta olanlarýnýn dýþ kenarlarýndan geçirilen çizginin içinde kalan alan köy yerleþik (meskûn) alanýný; bu çizgi ile 100 m. dýþýndan geçirilecek olan, Valiliklerce tespit edilerek Ýl Ýdare Kurulunca karara baðlanan sýnýrýn içinde kalan alaný köy yerleþik alan sýnýrýný,
+gg) KSUB: Kullanýlmýþ sularýn uzaklaþtýrýlmasý bedeli,
+      ðð) Parsel bacasý (Rögar): Baðlantý kanallarýnýn baþlangýç noktasýnda Ýdarece tespit edilecek özel tiplere uygun olarak inþa edilecek bacalarý,
+      hh) Pompa þartý: Kanalizasyon þebekesinin dolu kotu ile binalarýn son bodrum döþeme kotu arasýndaki kot farký nedeniyle baðlantý kanalýnýn akýþýnýn saðlanamayacaðý yerlerde bir terfi çukuru veya rögarda toplanacak atýksularýn uygun bir pompa sistemi ile parsel bacasýna aktarýlmasý þartýyla atýksu kanalizasyon sistemine baðlantý yapýlmasýna müsaade edilmesini,
+ýý) Priz veya ana musluk: Þube yolunun ana þebekeye baðlandýðý noktayý,
+      ii) Sayaç: Abonenin kullandýðý suyu ölçmeye yarayan ölçü aletini veya ölçme þartlarýnda, ölçüm çeviricisinden geçen suyun hacminin ölçülmesi, hafýzaya alýnmasý ve görüntülenmesi için tasarýmlanan ölçü aletini,
+jj) SCADA: Gerçek zamanlý uzaktan su ve atýksu izleme sistemi,
+kk) Su Þebekesi: Þehir içme suyu daðýtýmýný yapan deðiþik tür ve çaplarda borulardan oluþan
+      
+altyapý tesislerini,
+ll) Þube yolu: Su þebeke hattýndan baþlayýp aboneye ait parsel sýnýrýna kadar olan kýsmý,
+mm) Tarife cetveli: Satýþ, hizmet, teminat ve yaptýrýmlarýn parasal deðerlerin belirlendiði cetvel,
+      nn) Toplam Sistem Maliyeti: Yatýrýmýn finansal maliyetini, sistemin iþletilmesini ve bakýmýný, sabit varlýklarýn amortismanýný, yönetim ve izleme giderlerini, vergileri, kamulaþtýrmayý ve sistemin finansal sürdürülebilirliðini saðlayacak özkaynak getirisini de içeren toplam,
+      oo) Yönerge: Bu Yönetmelik kapsamýnda hazýrlanan Kocaeli Su ve Kanalizasyon Ýdaresi Genel Müdürlüðünce verilen tüm hizmetlere iliþkin ilgili birimlerce hazýrlanan uygulama yönergelerini,
+öö) Yönetim Kurulu: Kocaeli Su ve Kanalizasyon Ýdaresi Genel Müdürlüðü Yönetim Kurulunu, ifade eder.
+ÝKÝNCÝ BÖLÜM
+Tarife Tespit Esaslarý, Tarife ve Bedel Çeþitleri, Tarifeye Dair Hususlar
+Tarife tespit esaslarý
+      MADDE 5 – (1) Su ve atýksu tarifesinin belirlenmesinde, üretilen sudan kayýplar düþüldükten sonra tüketileceði öngörülen ölçülebilir tahmini su satýþ miktarý esas alýnýr. Su satýþý veya atýksu arýtma ve bertarafýyla ilgili olmayan tarifeler; sistem maliyetleri ve kârlýlýk oraný gözetilerek belirlenir.
+      (2) Toplam sistem maliyetleri tüm tarifelere yansýtýlýr. Bunlar, yönetim ve iþletme giderleri, amortismanlar, aktifleþtirilemeyen yenileme, ýslah ve tevsi masraflarý ve kârlýlýk oranýdýr.
+a) Yönetim ve iþletme giderleri:
+      1) Enerji ve malzeme giderleri: Üretim, ýsýtma ve aydýnlatma için kullanýlan elektrik, çeþitli akaryakýt ve katý yakýt gibi her türlü enerji masraflarý ile alüminyum, sülfat, mayi klor ve benzeri iþletme malzemesi harcamalarýndan oluþur.
+      2) Personel Giderleri: Yönetim Kurulu üyeleri, Denetçiler, devlet memurlarý kanununa tabi memurlar ile iþ kanununa göre çalýþtýrýlan devamlý ve geçici iþçi ve sözleþmeli personelin aylýklarýný, ikramiyelerini, yasa ve toplu sözleþmelerle saðlanan her türlü yardým zam ve tazminatlarý, fazla çalýþma ücretlerini, görev yolluklarýný ve her türlü diðer ücretlerini kapsar.
+      3) Çeþitli Masraflar: Kiralar, haberleþme giderleri, vergi ve harçlar, mahkeme giderleri, sigorta, eðitim ve öðretim, temsil giderleri, her türlü taþýma harcamalarý, güvenlikle ilgili giderler; bakým, onarým, imalat giderleri, tevsi, atýksu tasfiye giderleri gibi kalemlerinden meydana gelir.
+      b) Amortismanlar:	Sabit bir kýymet olan tesislerin ve demirbaþlarýn ömürlerinin sonunda yenilenebilmeleri için ayrýlmasý zorunlu olan ve miktarý yasa ve yetkili makamlarca belirlenen tutardýr. Yapýlacak yatýrýmlarla ilgili kredilerin yýllýk anapara, para ve faiz miktarý amortismanlarla karþýlanmadýðý takdirde, aradaki fark bir masraf kalemi olarak dikkate alýnýr.
+      c) Aktifleþtirilemeyen yenileme, ýslah ve tevsi masraflarý: Tesislerin iyileþtirilmesi için yapýlan masraflar ile aktifleþtirilemeyen yenileme ýslah ve tevsi giderleri hesaba katýlýr.
+      ç) Kâr: Bu maddenin ikinci fýkrasýnýn (a), (b) ve (c) bentlerindeki giderlerin toplamýna % 10 kâr ilave edilir.
+Tarife ve bedel çeþitleri
+      MADDE 6 – (1) Bu Yönetmeliðin konusu olan tarife ve bedeller; su satýþ tarifesi, atýksu tarifesi, hizmet bedelleri, teminat bedelleri ve yaptýrým bedelleri olmak üzere beþ grupta toplanýr.
+Tarifeye dair hususlar
+      MADDE 7 – (1) Ýlgili mevzuat ve bu yönetmelik hükümleri kapsamýnda belirlenenler hariç tarifeleri yapmaya ve tarifelere uygulanacak artýþ veya azalýþ oranlarýný belirlemeye ve deðiþtirmeye Genel Kurul yetkilidir.
+      (2) Mevzuatta yapýlan deðiþiklikler uyarýnca bazý yerleþim yerlerinde su ve atýksu tarifeleri Genel Kurulca farklý belirlenebilir.
+      (3) Önceki statüsü köy olup Büyükþehir Belediyesi hizmet alanlarýnýn Valilik sýnýrlarýna geniþletilmesi sebebiyle ve 12/11/2012 tarihli ve 6360 sayýlý Ondört Ýlde Büyükþehir Belediyesi ve Yirmiyedi Ýlçe Kurulmasý Ýle Bazý Kanun ve Kanun Hükmünde Kararnamelerde Deðiþiklik Yapýlmasýna Dair Kanunla mahalle konumuna gelmiþ köy yerleþik alan sýnýrý içerisinde kalan bölgelerdeki abonelere mahallelerinde ikameti adrese dayalý sistem kayýtlarý veya Muhtarlýk Belgesi ile tevsik edilen, geçimini tarým ve hayvancýlýkla saðlayan yerlerdeki aboneliklerine ilgili kanun ve/veya Genel Kurul Kararý ile belirlenen tarife uygulanýr.
+      (4) 4736 sayýlý Kanunun l inci maddesinde ve diðer kanunlarda belirtilen istisnalar dýþýnda, Ýdarece üretilen mal ve hizmet bedellerinde iþletmecilik gereði yapýlmasý gereken ticari indirimler hariç herhangi bir kiþi veya kuruma ücretsiz veya indirimli tarife uygulanamaz.
+      (5) Ýdarenin hizmet sýnýrlarý içerisinde bulunan cami, ibadethaneler, mezarlýk çeþmeleri ve halk çeþmelerinin abone olmak ve sayaç taktýrmak zorunluluðu vardýr. Ancak Mezarlýk ve Halk Çeþmeleri ile Cami ve Ýbadethanelerde temizlik, tuvalet ve gasilhanede kullanýlan sulardan ücret alýnmaz. Cami ve
+      
+Ýbadethanelerin kendi ihtiyaçlarý dýþýnda ücretli tuvalet gibi ticari bir faaliyetin yürütülmesi halinde ait olduklarý abone ve tarife grubundan ücret tahakkuk ettirilir. Bu aboneliklerde uygulanacak usul ve esaslar yönergeyle belirlenir.
+
+ÜÇÜNCÜ BÖLÜM
+Abone Türleri, Abone Gruplarý, Abone Uygulamalarý
+Abone türleri
+      MADDE 8 – (1) Kocaeli Su ve Kanalizasyon Ýdaresi Genel Müdürlüðü ile sözleþme yapan gerçek ve tüzel kiþilere abone adý verilir. Uygulanacak tarifelere göre üç tür abone vardýr.
+      a) Su ve atýksu abonesi: Ýdarenin hem su hem de kanalizasyon hizmetinden birlikte veya su hizmetlerinden doðrudan, atýksu hizmetlerinden dolaylý olarak ya da sahip olduðu çeþitli su kaynaklarýndan yararlanan abonedir. Her su abonesi ayrý bir sözleþmeye gerek olmaksýzýn ayný zamanda atýksu abonesidir. Bu tip abonelere su tarifesi ve atýksu tarifesi ile hizmet, teminat ve yaptýrým bedelleri uygulanýr.
+      b) Su abonesi: Ýdarenin sadece su hizmetinden veya sahip olduðu çeþitli su kaynaklarýndan yararlanan abonedir. Bu tip abonelere su tarifesi ile hizmet, teminat ve yaptýrým bedelleri uygulanýr. Bu aboneler atýksu tarifesinden kanunla veya Ýdare hizmet sýnýrlarý ile baðlý olarak muaftýrlar.
+      c) Atýksu (KSUB) abonesi: Þebeke suyu haricinde Ýdarenin sadece kanalizasyon hizmetinden yararlanan veya yararlanacak olan abonedir. Bu aboneler baðlantý sistemlerinin olup olmadýðýna bakýlmaksýzýn, arýtma sistemlerinden sorumlu Ýdarenin yapacaðý her türlü yatýrým, iþletme, bakým, onarým, ýslah ve harcamalarýnýn tamamýna kirlilik yükü ve atýksu miktarý oranýnda katýlmak zorunda olduklarýndan	ve	tükettikleri	kadar	suyu	kirleteceklerinden	Ýdare	ile	kullanýlmýþ	sularýn uzaklaþtýrýlmasýna iliþkin Atýksu Abonelik Sözleþmesi yapmak;		bunlarýn nihai bertarafý ve uzaklaþtýrýlmasý için Kullanýlmýþ Sularýn Uzaklaþtýrma Bedeli (KSUB) ödemek mecburiyetindedirler. Bu abonelere atýksu tarifesi ile hizmet, teminat ve yaptýrým bedelleri uygulanýr.
+(Deðiþik: 29.06.2020 Tarih, 7 Sayýlý ÝSU G.K.K)
+Abone gruplarý
+      MADDE 9 – (1) Aboneler suyun kullanýldýðý yer ve biçime göre farklý tarifelere tabi olarak gruplandýrýlmýþtýr.
+      a) Konut aboneleri: Barýnma gayesi ile oturulan yerlerde; içme, temizlik, ýsýnma, ortak mahal temizliði, bahçe-çevre sulamasý amaçlý olarak su tüketen ve kirleten abonelerdir. Konut tarifesi uygulanacak yerler aþaðýda belirtilmiþtir.
+1) Baðýmsýz konut birimleri
+2) Siteler ve apartmanlarýn toplu veya merkezi ýsýtma sistemleri
+3) Site ve apartmanlarýn ana sayaçlarý
+4) Ortak mahal temizliði ve bahçe-çevre sulamasý
+5) Resmi kurumlara ait lojman ve misafirhaneler, huzurevleri, barýnma evleri, yurtlar
+      6) Bakanlar Kurulu kararý veya kanun gereði kamu yararýna faaliyet gösteren dernekler ve vakýflar ile diðer dernek ve vakýflarýn ticari gaye gözetmeksizin kurmuþ olduklarý öðrenci yurtlarý, kurslar, pansiyonlar.
+7) Köy yerleþik alanlarýndaki baðýmsýz birimin müþtemilatý olan ahýrlar
+8) Ýlgili mevzuatýna göre konut tarifesi uygulanmasý gereken diðer yerler.
+      9) Kamuya hizmet veren; cami ve ibadet yerlerinin lojman ve hizmet binalarý, muhtarlýklar ve siyasi partilerin hizmet binalarý, Bakanlar Kurulu Kararý veya kanun gereði kamu yararýna faaliyet gösteren dernekler ve vakýflarýn faaliyet alanlarý ile ilgili hizmet sunduklarý yerler.
+10) Hayratlar ve kiþiler tarafýndan yaptýrýlan halk çeþmeleri.
+       11) Milli Eðitim Bakanlýðýnca kurum açma izni verilen özel yurt, pansiyon, apart benzeri barýnma yerleri.
+b) Ýþyeri aboneleri: Sunulan mal veya hizmet karþýlýðý bir bedel alýnarak gelir saðlamak gayesi
+ile sürekli veya geçici olarak her çeþit meslek sanat faaliyeti ve zanaatýn icra edildiði yerler ile diðer ticari hizmet üretilen tüm yerlerde su tüketen ve/veya atýksu üreten abonelerdir. Endüstriyel atýksuyu bulunmayan diðer ticari faaliyette bulunan yerler iþyeri abonesi olarak tarifelendirilir.
+      c) Sanayi aboneleri: Hammadde üreten veya þekil, nitelik, nicelik deðiþtirerek seri olarak mamul veya yarý mamul madde haline getiren yerler ile faaliyeti gereði endüstriyel nitelikte atýksu üreten yerler sanayi abonesi olarak tarifelendirilir.
+      ç) Resmi aboneler: Genel ve yerel yönetim kapsamýndaki kamu kurumlarýnýn hizmetlerinin yerine getirilmesinde kullanýlan yerler ile bu yerlere ait park ve/veya bahçelerde su tüketen abonelerdir. Resmi abone tarifesi uygulanan aboneler aþaðýda belirtilmiþtir.
+      
+      1) Genel bütçe kapsamýndaki kamu kurum ve kuruluþlarýnýn, yerel yönetimlerin ve baðlý kuruluþlarýnýn hizmetlerini ifa ettikleri yerler,
+2) Türk Silahlý Kuvvetlerinin hizmet binalarý ve tesisleri,
+      3) Özel Bütçe kapsamýndaki üniversiteler ve diðer kamu kurum ve kuruluþlarý ile Milli Eðitim Bakanlýðýna baðlý resmi eðitim kurumlarý,
+      4) Kamu kurum ve kuruluþlarýna baðlý hastaneler, saðlýk ocaklarý, dispanserler, klinikler ve poliklinikler ile laboratuvarlar,
+5) Gençlik ve Spor Bakanlýðýna ait spor tesisleri,
+6) Sosyal Güvenlik Kurumlarý, Düzenleyici ve Denetleyici Kurumlar,
+      7) 5018 sayýlý Kanun dýþýnda kalan Özel Bütçeli Kuruluþlarýn tarifeleri ait olduklarý abone grubu altýnda belirlenir.
+      d) Ýnþaat aboneleri: Yapý ruhsatý belgesine istinaden bina, ihata duvarý ve benzeri inþaatlar ile her türlü maden arama, çeþitli amaçlarla kazý yapma ve bunun gibi sebeplerle gerçek ya da tüzel kiþilerin bu etkinliklerini sürdürmek için veya bu etkinliklerini sürdürmeyi saðlayacak kalýcý tesislerin yapýlmasýna imkân tanýmak için kurduklarý, faaliyetlerinin ve kalýcý tesislerinin tamamlanmasýyla varlýðý sona erecek olan tesislerde su tüketen ve/veya atýksu üreten abonelerdir. Bunlara inþaat tarifesi uygulanýr.
+      e) Kaynak suyu aboneleri: Ýdarenin sahip olduðu kaynak sularýný iþletenlere uygulanan abone grubudur. Kaynak suyu tarifesi ile tarifelendirilir. Kaynak sularýnýn satýþýnda uyulacak usul ve esaslar yönerge ile düzenlenir.
+      f) Geri kazaným suyu aboneleri: Atýksu arýtma tesislerinin çýkýþýndan deþarj edilen suyu, ileri arýtma teknolojileri kullanýlarak arýtýldýktan sonra endüstriyel ve yeþil alan sulama suyu veya benzeri amaçla kullanan abonelerdir. Geri kazaným sularýnýn satýþýnda uyulacak usul ve esaslar yönerge ile düzenlenir.
+      g) Atýksu (KSUB) aboneleri: Ýdarenin sadece kanalizasyon hizmetinden yararlanan veya yararlanacak olan yerlerdir. Kuyu, kaptaj, havuz gibi tesislerden veya tankerle yeraltý ve yüzeysel sularý veya deniz suyunu temin ederek kullananlar, vidanjör hizmeti gibi Ýdarenin kanalizasyon ve kullanýlmýþ sularýn uzaklaþtýrma hizmetlerinden faydalananlar ile arýtma gibi nihai bertaraf hizmetlerini alanlar, alacak olanlar, nitelikleri itibariyle ait olduklarý abone grubu için belirlenen atýksu bedeli oranýnda kullanýlmýþ sularýn uzaklaþtýrma bedeli öderler.
+Abone uygulamalarý
+      MADDE 10 – (1) Ýdarenin su satýþý yaptýðý veya hizmet ürettiði yerlerle su abonesi sözleþmesi ve/veya atýksu abonesi sözleþmesi yapmanýn yaný sýra satýlan suyun miktarý, niteliði, fiyatý, suyu kullanan yerin durumu, su kayýp ve kaçaklarýnýn önlenmesi bakýmýndan abonelere özel uygulamalar yapabilir.
+      a) Geçici abone uygulamasý: 1) Geçici süre ile faaliyet gösteren sergi, fuar, festival, sirk, panayýr gibi yerler ile mücbir sebeplerle oluþan geçici barýnma yerlerinde su tüketen ve/veya atýksu üreten abonelerdir.
+      2) 26/07/2008 tarihinden sonra yapý ruhsatý bulunup da; yol, elektrik, doðalgaz ve telefon gibi kamu hizmetlerinin en az birinden yararlandýðýný ispatlamak koþuluyla, yapý kullanma izni için ilgili kuruma baþvurulduðu halde izin verilmeme nedeninin;
+1. Sigorta prim veya vergi borçlarýndan kaynaklanmasý halinde tüm baðýmsýz bölümlere,
+      2. Binanýn tamamýndan kaynaklanmayýp, binanýn bazý kýsýmlarýnýn yapý ruhsatýna aykýrý olmasý halinde, bu aykýrýlýðýn binanýn taþýyýcý unsurlarýný etkilemeyen ve teknik açýdan tamamýnda oturulmasýnda sakýnca olmadýðýnýn belgelenmesi þartýyla yapý ruhsatýna uygun baðýmsýz bölümlerine,
+      3. Binanýn oturulan bölümleriyle ilgili olmayýp çevre düzenlemesi gibi eksikliklerden kaynaklanmasý halinde tüm baðýmsýz bölümlere, Yapý kullanma izni belgesi alýnýncaya kadar kullaným türüne göre geçici olarak abonelik verilebilir.
+      3) Ayrýca 12/10/2004 tarihi ile 26/07/2008 tarihleri arasýndaki ruhsatlý olup yapý kullanma izin belgesi bulunmayan binalara yukarýdaki þartlar aranmaksýzýn geçici abonelik uygulamasý yapýlýr. Ancak, yapý ruhsatý alýnmýþ ve buna göre yapýlmýþ olma þartý 12.10.2004 tarihinden önce yapýlmýþ olan yapýlarla ilgili olarak uygulanmaz.
+      4) Geçici abonelik tesis edilirken; su ve kanalizasyon harcamalarýna katýlma paylarý tahakkuk ve tahsil edilir.
+      5) Geçici abonelere ilgili belediyesinden veya resmi kurumdan su kapatma/kesme talebinde bulunulursa abonelik iptal edileceðinden su baðlanmýþ olmasý herhangi hak doðurucu olarak kabul edilmez.
+      6) Sanayi tarifesi uygulanacak abonelere 26/9/2004 tarihli ve 5237 sayýlý Türk Ceza Kanununun 184 üncü maddesi hükmü uyarýnca geçici abonelik tesis edilemez.
+7) Ticari ve zirai amaçlý olmayan, bahçe olarak kullanýlan imar parselleri üzerinde yapý
+      
+bulunmasý halinde bahçe aboneliði geçici olarak verilebilir.
+8) Geçici abonelerin tarifeleri ait olduklarý abone grubuna göre belirlenir.
+      b) Ortak abone uygulamasý: Birden fazla birimi olan yerlerde, her baðýmsýz birime ayrý sayaç ile su verilmesi esastýr. Ancak havuz, kazan dairesi, su arýtma sistemi, su deposu, hidrofor, bahçe sulama gibi ortak su kullaným sistemlerinin olduðu yerlerde parsel sýnýrlarý içerisindeki iç tesisatlarýn her türlü bakým, onarým, yenileme sorumluluðu buralarýn yönetimlerine ait olduðundan bu tesisatlarda meydana gelen su kayýplarýnýn sorumluluðu da bu yönetimlere aittir. Buralarda oluþacak su kayýp kaçaklarýnýn önlenmesi amacýyla ortak abonelik yapýlarak ana su sayacý takýlmasý zorunludur.
+      1) Ortak abonelik, ayný abone grubuna veya deðiþik abone grubuna dahil, birden fazla baðýmsýz birimin olduðu yerlerde varsa buralarýn yönetim birimleri adýna, bir yönetim biriminin olmadýðý yerlerde ise ana su kullanýcýsýnýn adýna tesis edilir.
+      2) Ayný abone grubuna dahil olan baðýmsýz birimlerin olduðu yerlerde oluþturulan ortak abonelere dahil olduklarý abone grubunun tarifesi uygulanýr.
+      3) Deðiþik abone grubuna dahil olan baðýmsýz birimlerin olduðu yerlerde oluþturulan ortak aboneler, baðýmsýz birimlerin dahil olduklarý abone gruplarýnýn yoðunluðuna ve abone grubunun toplam tüketim oranlarýna bakýlarak Ýdare tarafýndan belirlenir. Ancak abonenin müracaatýna baðlý olarak tarife deðiþikliði 12 aylýk tüketimler gözlemlenerek deðiþtirilebilir.
+4) Ortak abonelerde teminat bedeli, tarifesine baðlý abone grubu üzerinden alýnýr.
+      5) Ortak abone sayacý þube yolu bitiminde Ýdare tarafýndan uygun görülen yere takýlýr. Sayaç bedeli, sayaç montaj bedeli ve tesisat yapýmý ile ilgili harcamalar aboneden alýnýr.
+      6) Ortak abone sayacýndan su alan tüm abonelerin dönemsel olarak tükettikleri toplam su miktarý, ayný dönem site sayacýndan tüketilen su miktarýndan çýkarýlmak suretiyle bulunan tüketimin toplam tüketime oraný %5 üzerinde ise ortak aboneye tahakkuk yapýlýr. Tüketim farkýnýn toplam tüketime oraný %5 ve altýnda ise tahakkuk yapýlmaz.
+      7) Tüketim farký oluþan yerlerde fiziki ve/veya kullaným kaçaðý için araþtýrma ve inceleme yapýlýr. Tespit edilmiþse fiziki kaçaklarýn giderilmesi yönetim birimlerinden istenilir. Sayaçsýz ortak birimler varsa sayaç takýlarak abone yapýlýr. Olumsuzluklarýn devamý halinde kaçak su kullandýðý tespit edilenlere bu Yönetmeliðin 38 ve 39 uncu maddelerine göre iþlem yapýlýr.
+c) Yüksek tüketimli abone uygulamasý: Ayný parsel ve/veya kampüs alaný içerisinde kullanýcýsý
+ayný veya farklý olan abonelerin ayrý ayrý tükettikleri su miktarýna bakýlmaksýzýn toplamda tükettikleri veya tüketebilecekleri su miktarý aylýk 100 m3 ve üzerinde olan yerler Ýdarece yüksek tüketimli abone
+olarak deðerlendirilebilir. Bu yerlerdeki Su ve/veya atýksu abonelerinin mevcut sistemlerinde kontroller yapýlarak su kayýp ve kaçaklarýnýn en aza indirilmesini saðlamak amacýyla;
+       Abonelerin tüketim profillerine, suyun kalitesine, kullaným biçimine uygun çap ve özellikte, günün okuma teknolojisine uyarlanabilen, ölçüm hassasiyeti yüksek sayaçlar takýlýr.
+      2) Yüksek Tüketimli abonelerin tüketimlerinin takibi ve faturalandýrýlmasý uzaktan okuma sistemleri ile yapýlýr.
+      3) Abonelerin sayaç yerlerinin tespiti ve deðiþtirilmesi, sayaç ve tesisatlarýnýn durumunun iyileþtirilmesi, sayaçlarýn ve sayaç tesisatýna baðlý vana, pislik tutucu gibi malzemelerin montaj kurallarýna göre mesafe aralýklarýna uyularak monte edilmesi, sayaçlarýn kutu içine alýnmasý gibi hususlarda Ýdare gerekli tedbirleri alýr, bedeli karþýlýðýnda gerekli gördüðü düzenlemeleri ve imalatý yapar, yaptýrýr.
+4) Ýdarenin gerekli gördüðü deðiþikliklerin yapýlmasýna engel olan abonelerin suyu kapatýlýr.
+      5) Aboneler sayaç ve sayaca baðlý tesisat, uzaktan okuma sistemini saðlayan elektronik aksam ve gereçlerin korunmasýndan sorumludurlar. Bunlarda meydana gelebilecek hasarlar bedeli karþýlýðýnda giderilir. Ayrýca gerekiyorsa bu Yönetmeliðin 38 ve 39 uncu maddelerine göre iþlem yapýlýr.
+      (2) Kuraklýk, Doðal afet veya baþka bir sebeple þebekeye verilen günlük su miktarýnda düþme olmasý halinde, Ýdare su tasarrufunu saðlamak ve öncelikle konut abonelerine su vermek amacý ile bazý abonelerine su satýþýný geçici olarak durdurabilir.
+(3) Abonelik uygulamalarýyla ilgili usul ve esaslar yönerge ile belirlenir.
+DÖRDÜNCÜ BÖLÜM
+Su Satýþý, Kaynak Suyu, Geri Kazaným Suyu, Atýksu Tarifeleri
+(Deðiþik: 29.06.2020 Tarih, 7 Sayýlý ÝSU G.K.K)
+Su satýþ tarifesi
+      MADDE 11- (1) Bu Yönetmeliðin 9 uncu maddesinin (a), (b), (c), (ç), (d) ve (e) bentlerinde belirtilen abone gruplarýna uygulanacak su satýþ ücretinin,	5 inci madde ve bentlerinde belirtilen giderleri ve kârlýlýðý saðlayacak düzeyde olmasý esastýr.
+(2) Bu maddenin birinci fýkrasýnda belirtilen abone tür ve gruplarýna uygulanacak su tarifeleri
+      
+Genel Kurulca ayrý ayrý belirlenebilir.
+      (3) Ýdare su tasarrufunu teþvik, az kullanana sosyal destek saðlamak ve gelirini artýrmak amacýyla Abone gruplarýna veya ayný abone grubu içerisinde yer alan abone tiplerine suyu kullanma ve kullanýlmýþ suyu uzaklaþtýrma durumlarýna göre birlikte veya ayrý ayrý, kademeli tarife uygulamasý yapabilir. Abone türüne göre gerekli kademe aralýklarýný, uygulama zamanýný ve tarifelerini tespit etmeye Genel Kurul yetkilidir.
+      (4) Ýþyeri, sanayi ve inþaat grubu abonelerinin su kullaným amaçlarýnýn ticari olmasý göz önüne alýnarak bunlara uygulanan su tarifesi konutlara göre daha yüksek düzeyde tespit edilebilir.
+      (5) Ýdare, yasal mevzuat veya iþletmecilik gereði abonelere, ait olduklarý abone grubu için belirlenen su satýþ bedeli üzerinden belirli indirimlerle su satabilir.
+      a) Özel tarife indirimleri: Kendi adlarýna veya kanuni vasileri adýna ikamet ettikleri yerlerdeki konut aboneliklerinde geçerli olmak üzere;
+      1) 24/02/1968 tarihli ve 1005 sayýlý Ýstiklal Madalyasý Verilmiþ Bulunanlara Vatani Hizmet Tertibinden Þeref Aylýðý Baðlanmasý Hakkýnda Kanun uyarýnca; Vatani hizmet tertibinden aylýk baðlananlar, Malul gazi olarak aylýk baðlananlar ile Þehit dul ve yetimi sýfatýyla aylýk veya gelir baðlananlara,
+      2) 9/7/2008 tarihli ve 5774 sayýlý Baþarýlý Sporculara Aylýk Baðlanmasý ile Devlet Sporcusu Unvaný Verilmesi Hakkýnda Kanun uyarýnca aylýk baðlanan amatör sporculara,
+3) Engellilik oraný %40 ve üzerinde bulunanlara
+4) 3294 sayýlý yasa kapsamýnda Öksüz Yetim ve Dul Maaþý, 2022 sayýlý yasa kapsamýnda
+65 Yaþ maaþý alanlar ile 2828 sayýlý Kanun ve 633 sayýlý Kanun Hükmünde Kararname kapsamýnda Sosyal Ekonomik Destek alanlara, yýlda bir bu durumunu belgelendirmek kaydýyla,
+Genel Kurulun belirlediði oranlarda özel tarife indirimi uygulanabilir. Bu kiþiler, indirimli
+tarifelerden yalnýzca bir aboneliðinde faydalanabilir.
+      b) Özel sözleþmeli su satýþý: Yüksek miktarda tüketim yapan su abonelerine, ait olduklarý abone grubunun tarife bedelinin %25’ine kadar indirimli bedelle su aboneliði sözleþmesi yaný sýra özel sözleþme ile su satýþý yapýlabilir. Bu sözleþmeleri yapmaya Yönetim Kurulunun onayý ile Genel Müdür yetkilidir. Buna göre özel su satýþ sözleþmeleri;
+      1) Alýcý tarafýndan, ayný iþletme sahasý veya kampüs alaný gibi yerdeki bir veya birden fazla su abonesinden kullanýmý taahhüt edilen su tüketim miktarý toplamda yýllýk 120.000 m3 ’ten az olamaz.
+      2) Sözleþmeler bir yýllýk süre için ve mali yýlbaþýndan baþlatýlarak yapýlýr. Sözleþmenin yýl içerisinde baþlamasý gereken durumlarda taahhüt edilen su miktarý aylýk 10.000 m3 üzerinden kalan
+aylarýn toplamýndan az olamaz.
+      3) Alýcý, yýllýk taahhüdüne ait suyun bedelini sözleþme baþlangýcýnda peþin ödemek isterse, sözleþme tarihindeki belirlenen indirimli tarife bedelinden tahakkuk yapýlarak tahsil edilir.
+4) Yýllýk tüketilen su miktarý 120.000 m3’e ulaþmadýðý takdirde, tüketilen toplam miktar ile
+taahhüt edilen miktar arasýndaki tüketim farkýnýn karþýlýðý olarak sözleþmenin tamamlandýðý tarihteki tarife bedeli üzerinden tahakkuk yapýlýr.
+5) Tarife cetvelinde deðiþiklik olmasý halinde özel sözleþmeyle belirlenen bedel de ayný nispette
+arttýrýlýr veya azaltýlýr.	3
+6) Yýllýk 500.000 m	üzeri su tüketen sanayi abonelerine; tanker ve benzeri usullerle su
+kullanmamasý, yer altý suyu kullanýmý ve temininden vazgeçmesi, kuyusunu kapatmasý þartýyla tarifesinin %50’sine kadar indirimli su satýþý yapýlabilir.
+7) Bu bent iþyeri, sanayi ve kaynak suyu abone grubu dýþýndaki abonelere uygulanmaz.
+8) Özel sözleþmeli su satýþýnda uyulmasý gereken usul ve esaslar yönerge ile belirlenir.
+      c) Protokollü su satýþý: Herhangi bir arýtma iþlemine tabi tutulmadan veya tutularak Ýdare ile özel protokol imzalamak suretiyle su alan Ýdarenin hizmet sýnýrlarý içinde veya dýþýndaki gerçek veya tüzel kiþilere, ait olduklarý abone grubu üzerinden protokolle belirlenen süre zarfýnda ve indirimli bedelle su satýlabilir. Protokolleri yapmaya Yönetim Kurulunun onayý ile Genel Müdür yetkilidir.
+Kaynak suyu tarifesi
+      MADDE 12- (1) Ýdarenin sahibi bulunduðu kaynak sularý, isteklilerine Genel Kurulun belirlediði tarife üzerinden satýlabilir.
+(2) Kaynak suyu satýþý yapýlacaklarla Kaynak Suyu Özel Satýþ Sözleþmesi yapýlýr.
+(3) Kaynak sularýnýn satýþýnda uyulmasý gereken usul ve esaslar yönerge ile belirlenir.
+Geri kazaným suyu tarifesi
+      MADDE 13- (1) Atýksu arýtma tesisleri çýkýþýnda deþarj edilmek yerine ileri arýtma teknikleri kullanýlarak tekrar arýtma iþlemlerinden geçirildikten sonra bir þebeke vasýtasýyla geri kazanýlan suyun satýþ tarifesi, geri kazaným maliyetleri ve kârlýlýk gözetilerek Genel Kurul tarafýndan belirlenir.
+      (2) Geri kazaným suyu talep edenlerle suyun alýcýya ulaþtýrýlmasý ve uyulacak esaslarýn tespiti amacýyla protokol yapýlýr. Protokol yapmaya Yönetim Kurulunun onayý ile Genel Müdür yetkilidir.
+      
+Atýksu (KSUB) tarifesi	3
+MADDE 14- (1) Tüketilen her m su üzerinden alýnan, Bu Yönetmeliðin 8 inci maddesinin (a)
+ve (c) bendinde belirtilen abone türlerine ve 9 uncu maddesinin birinci fýkrasýnýn (g) bendinde belirtilen abone grubuna uygulanacak atýksu bedeli; bu Yönetmeliðin 5 inci maddesine göre hesaplanan su birim fiyatýný aþmayacak oranda Genel Kurul tarafýndan belirlenir.
+      (2) 2560 sayýlý Kanunun 17 nci maddesi hükmü uyarýnca kullanýlmýþ sularýný kendilerine ait arýtma tesisinden geçirmiþ olsalar dahi her abone, kendi abone tarifesi üzerinden atýksu bedeli ödemekle yükümlüdür.
+(3) Geri kazaným suyunu kullanarak atanlar atýksu bedeli öderler.
+(4) Su alma yapýsýyla denizden temin ettikleri suyu kullanarak atanlar atýksu bedeli öderler.
+      (5) 4562 sayýlý Kanunun 21 inci maddesi ile 4691 sayýlý Kanunun 8 inci maddesi hükmü gereði ortak atýksu arýtma tesisi kuran ve iþleten Organize Sanayi Bölgeleri ile Teknoloji Geliþtirme Bölgelerinden atýksu bedeli alýnmaz. Ortak arýtma tesislerini kurmamýþ veya devreye almamýþ olanlardan kendi tarifesi üzerinden atýksu bedeli alýnýr.
+      (6) Ortak mahal temizliði ve bahçe-çevre sulamasý yapýlan yerlerden, parklardan, besihane, ahýr, tarým amaçlý bahçe, bostan, fidanlýk ve seralardan atýksu bedeli alýnmaz.
+(7) Ýnþaatlardan atýksu bedeli alýnmaz. Ancak atýksu üreten inþaatlara atýksu bedeli tahakkuku
+yapýlýr.
+(8) Atýksu bedeli ödenmiþ olan sudan elde edilen buharýn tekrar suya dönüþtürülüp kullanýldýðý
+yerlerden buhardan elde ettikleri su nedeniyle tekrar atýksu bedeli alýnmaz.
+(9) Tekneler, gemiler ve diðer deniz taþýtlarýndan atýksu bedeli alýnmaz.
+
+BEÞÝNCÝ BÖLÜM
+Hizmet Bedelleri ve Teminatlar
+Su ve kanalizasyon durum belgesi bedeli
+      MADDE 15- (1) 2560 sayýlý Kanunun 18 inci maddesi gereði yapý için belediyeden ruhsat isteyen gerçek veya tüzel kiþiler, daha önce Ýdareden altyapý tesisleriyle uygunluk bakýmýndan su ve kanalizasyon durumu hakkýnda belge almak zorundadýr. Ýdarece, o yerdeki su ve kanalizasyon þebekesine göre Genel Kurul tarafýndan belirlenen bedel karþýlýðýnda Su ve Kanalizasyon Durum Belgesi verilir.
+      (2) Su ve Kanalizasyon Durum Belgesi verilmeden önce bu Yönetmeliðin 20 inci maddesinde yer alan ilgili projelerin Ýdare tarafýndan incelenmesi ve onaylanmasý zorunludur.
+      (3) Baðlantý ve tesisatýn Su ve Kanalizasyon Durum Belgesi ile Ýdare tarafýndan onaylý projesine aykýrý olarak yapýlmasý halinde abonelik açýlmaz ve imar mevzuatýnýn ruhsatsýz yapýlar hakkýndaki hükümleri uygulanýr.
+Vidanjör hizmet bedeli
+      MADDE 16- (1) Çevre ve Þehircilik Bakanlýðý Genel Fiyat Analizleri kitabýndaki verilere göre vidanjör satýn alma bedelinin aþýnma payý saat emsali (0,000171) ile çarpýlmak suretiyle bulunacak bir saatlik aþýnma payý ücretine, yakýt gideri, þoför, kanal operatörü ve vasýfsýz iþçinin birer saatlik çalýþma ücreti eklenerek bulunacak miktara Genel Kurulca belirlenecek kâr ilave edilerek, vidanjörün bir saatlik ücreti tespit edilir. Ýki saat içinde bir seferlik çekim ve boþaltým yerine taþýnýp boþaltýlacaðý kabul edilerek bir seferlik çekim için iki saatlik bedel tahakkuk ettirilir.
+      (2) Fosseptiði olan aboneden, su veya atýksu abonesi olarak atýksu bedeli alýnýyorsa, vidanjör hizmeti için ayrýca bedel alýnmaz.
+Vidanjör izin belgesi bedeli
+      MADDE 17 - (1) Atýksu nakli amacýyla faaliyette bulunan vidanjör ve benzeri araçlarýn iþlemleri Atýksularýn Kanalizasyona Deþarj Yönetmeliði ile uygulama usul ve esaslarýný düzenleyen mevzuat hükümlerine göre verilen Vidanjör Ýzin Belgesi ile gerçekleþtirilir.
+      (2) Bu izin belgesine göre faaliyette bulunanlar çektikleri atýksularý, Atýksularýn Kanalizasyona Deþarj Yönetmeliði ile Ýdare Havza Koruma Yönetmeliði hükümlerine uygun olarak Ýdarenin belirleyeceði yerlere deþarj etmek zorundadýr. Bu hükümlere uymayanlar hakkýnda ilgili mevzuat uyarýnca gerekli adli ve idari iþlemler yapýlýr.
+(3) Vidanjör Ýzin Belgesi karþýlýðýnda alýnacak bedel Genel Kurul tarafýndan belirlenir.
+Kanal temizleme hizmet bedeli
+      MADDE 18 - (1) Atýksu baðlantý kanallarý herhangi bir sebeple týkanan abonelerin kanalý kanal temizleme aracý ile açýlýr. Ýdareye ait kanalizasyon hattý ile bina arasýndaki atýksu baðlantý hattýnda meydana gelen týkanmalara parsel bacasýndan veya parselin içinden herhangi bir yerden yapýlan her türlü müdahaleler karþýlýðýnda bu Yönetmeliðin 5 inci maddesine göre bu iþte kullanýlacak makine, araç, malzeme, yakýt, personel ve çalýþma süresi gibi kýstaslar dikkate alýnarak hesaplanan ve Genel Kurulca
+      
+belirlenen kanal temizleme hizmet bedeli alýnýr.
+(2) Bu iþlem nedeniyle kullanýlan araç için ayrýca bedel hesaplanmaz.
+      (3) Kanal temizleme çalýþmasý nedeniyle tamirat gerektiren durumlarda tamirat bedelleri ayrýca hesaplanýr.
+      (4) Kanal temizleme bedeli, hizmetin verildiði binalardaki abonelere paylaþtýrýlarak veya bina yönetimine ait aboneye tahakkuk ettirilir.
+Ýþ makineleri kiralama, fiziki kaçak arama ve kanal içi görüntüleme hizmet bedeli
+      MADDE 19- (1) Ýdarenin imkânlarý dâhilinde ve talep olmasý durumunda, kiralayacaðý mevcut iþ makineleri ile diðer araç ve gereçlerin saatlik çalýþma ücreti, Çevre ve Þehircilik Bakanlýðý fiyat analizleriyle bulunacak bedele kâr ilave edilmek suretiyle hesaplanýr.
+(Deðiþik: 29.06.2020 Tarih, 7 Sayýlý ÝSU G.K.K)
+Proje inceleme ve onay bedeli
+      MADDE 20- (1) Ýdarenin yetki ve hizmet sahasý içinde; imar yollarý ve kadastral yollarda özel ve tüzel kiþilerce hazýrlatýlmýþ, içmesuyu, atýksu, yaðmursuyu, dere, menfez, içmesuyu deposu, fosseptik yapýsý, terfi merkezi, sýhhi tesisat gibi altyapý tesisleri ile ilgili projeler Ýdarenin incelemesi ve onayýndan geçmek zorundadýr.
+      (2) Ýnceleme ve onay için projenin cinsi, mahiyeti ve metrajýna göre hesaplanan bedeller peþinen tahsil edilir. Ýdare yetki ve hizmet sahasý içerisindeki projeler için kamu kurum ve kuruluþlarýndan inceleme ve onay bedeli alýnmaz.
+      (3) Projelerin incelenmesi sýrasýnda, gereken yerlerde hidrofor ve pompa þartýna uyulup uyulmadýðý ayrýca kontrol edilir. Kullanýcý tarafýndan Ýçme ve Kullanma Suyu Temini ve Daðýtým Sistemleri Hakkýnda Yönetmeliðine uygun olacak þekilde pompa veya hidrofor (terfi sistemi) kullanýlmasý gerekli olan durumlarda basýnçlandýrma sisteminin uygunluðu bedeli karþýlýðýnda Ýdarenin onayýna sunulur.
+(4) Ýnceleme ve onay sürecinde uygulanacak usul ve esaslar yönergeyle belirlenir.
+      a) Uygulama projelerinin yapýmý, incelenmesi ve onaylanmasý: Ýdarenin yetki ve hizmet sahasý içinde özel ve tüzel kiþilerce hazýrlanacak veya hazýrlatýlacak atýksu, yaðmursuyu, içmesuyu projelerinin uygulanabilmesi için Ýdareden onay alýnmasý zorundadýr. Ýdare tarafýndan onaylanan projelerde özel veya tüzel kiþilerce revizyon talep edilmesi halinde hazýrlanacak veya hazýrlatýlacak revize projeler tekrardan Ýdarenin onayýna sunulacaktýr. Tüm altyapý projeleri Ýdare tarafýndan bedeli karþýlýðýnda yapýlýp talep edenlere verilebilir. Ýdare tarafýndan yapýlan projelerden aþaðýdaki formüle göre belirlenen proje yapým bedeli alýnýr, proje inceleme ve onay bedeli alýnmaz.
+      1) Atýksu, içmesuyu, yaðmursuyu, dere ýslahý uygulama projelerinin onay bedeli: Km baþýna belirlenen bedel üzerinden hattýn uzunluðuna baðlý olarak alýnýr. Bununla birlikte atýksu, içmesuyu, yaðmursuyu projeleri kapsamýnda kullanýlan tahliye, vantuz, parsel bacasý, baca, ýzgara detayý gibi altyapý tip projeleri onaya sunulan projeler ile birlikte Ýdare tarafýndan bedelsiz olarak temin edilir.
+      2) Menfez, depo, fosseptik, terfi merkezi, sýhhý tesisat (daire-dükkan dýþý) gibi sanat yapýlarýna ait projeler bedeli karþýlýðýnda Ýdare tarafýndan incelenir ve onaylanýr.
+      3) Altyapý projelerinin incelenerek onaylanmasý ve yapýmý için Taban Bedel (T); 657 sayýlý Devlet Memurlarý Kanununa tabi beþinci dereceli kadroda çalýþan personel maaþýna göre belirlenecek 4 mühendis/saat, 2 tekniker/saat, 2 teknisyen/saat, 1 bilgisayar iþletmeni/saat, 1 memur/saat, 1 þoför/saat, ücretleri toplamý olarak hesaplanýr.
+      Ýnceleme ve onaylama bedeli; taban bedelin projenin metraj ve kapasite miktarýna göre hesaplanan A katsayýsýyla çarpýmý sonucu bulunan bedeldir.
+      Projenin Ýdare tarafýndan yapýlmasýnýn talep edilmesi durumunda proje yapým bedeli; taban bedelin 5 katýnýn, proje metrajý ve projenin cinsi ve mahiyetine göre metraj ve kapasitesine göre belirlenen A katsayýsý ile çarpýmý olarak belirlenir.
+      1. Atýksu, içmesuyu, yaðmursuyu, dere ýslah projesi ve bu projelerin iþletme projelerinin inceleme ve yapým bedellerinin belirlenmesi için kullanýlacak formül:
+Atýksu- içmesuyu-Yaðmursuyu-Dere Islah Projesi- Ýþletme Projesi Proje Ýnceleme Bedeli = Proje Metrajý x A x T Atýksu- Ýçmesuyu-Yaðmursuyu- Dere Islah Projesi-Ýþletme Projesi = Proje Metrajý (Km)
+Proje Metrajýna Karþýlýk Gelen Katsayý	= A Katsayýsý
+Taban Bedeli	= T (TL)
+      Atýksu- Ýçmesuyu-Yaðmursuyu-Dere Islah Projesi- Ýþletme Projesi Proje Yapým Bedeli = 5 x Proje Metrajý x A x T Atýksu, içmesuyu, yaðmursuyu, dere ýslah ve bu projelerin iþletme projelerinde kabul edilen A katsayýsý aþaðýdaki tabloda verilmiþtir.
+      
+
+
+
+
+
+2. 
+Atýksu-
+Ýçmesuyu-Yaðmursuyu Terfi Merkezi, Fosseptik Yapýsý, Ýçmesuyu Deposu, Hidrolik Kesit Projeleri, Sýhhi Tesisat Projesi gibi projelerinin inceleme ve yapým bedellerinin belirlenmesi için kullanýlacak formül:
+       Terfi Merkezi, Fosseptik Yapýsý, Ýçmesuyu Deposu, Hidrolik Kesit Projeleri, Sýhhi Tesisat Projesi Ýnceleme Bedeli = A Katsayýsý x T
+      A Katsayýsý=Terfi Merkezi-Hidrolik Kesit-Fosseptik Yapýsý-Depo-Sýhhi Tesisat Projesinin Kapasitesine Denk Gelen Sayý
+
+Taban Bedeli = T (TL)
+
+Terfi Merkezi, Fosseptik Yapýsý, Ýçmesuyu Deposu, Hidrolik Kesit Projeleri, Sýhhi Tesisat Projesi Yapým Bedeli = 5 x A Katsayýsý x T
+      Terfi Merkezi, Fosseptik Yapýsý, Ýçmesuyu Deposu, Hidrolik Kesit Projeleri, Sýhhi Tesisat Projelerinde kabul edilen A Katsayýsý aþaðýdaki tabloda verilmiþtir.
+
+
+b) Atýksu, yaðmursuyu ve içmesuyu baðlantý projelerinin incelenmesi ve onaylanmasý:
+      1) Ýdarenin yetki ve hizmet sahasý içerisindeki bir parselde yapýlan ve yapýlacak bina ve tesislere ait atýksu, yaðmursuyu ve içmesuyu baðlantýlarý ile parsel sýnýrý içerisinde kalan kanalizasyon ve yaðmursuyu drenaj sistemlerine ait projeler Ýdarenin incelemesi ve onayýna sunulmak zorundadýr.
+      2) Mevcut atýksu ve yaðmursuyu kanallarýna baðlantý için parsel bacalarýndan imar yolundaki baðlantý noktalarýna kadar olan baðlantýlarýn projeleri ile mevcut içmesuyu hattýna baðlantý için parsel sýnýrýndan imar yolundaki baðlantý noktasýna kadar olan þube yolu baðlantý projelerinin incelenmesi ve onayý için hesaplanacak bedel; hattýn uzunluðuna baðlý olarak bu maddenin (a) bendine göre hesaplanýr.
+c) Ýþletme projelerinin incelenmesi ve onaylanmasý:
+      1) Yapýmý tamamlanan atýksu, yaðmursuyu ve içmesuyu iþletme projeleri hazýrlanarak Ýdarenin inceleme ve onayýna sunulur. Ýdare, parsel baðlantýlarý haricinde uzunluðu 100m den fazla olan içmesuyu, yaðmursuyu ve atýksu iþletme projelerinin CBS tabanlý hazýrlanmasýný isteyebilir.
+      2) Ýþletme projelerinin onay bedeli, hattýn uzunluðuna baðlý olarak bu maddenin (a) bendine göre belirlenen taban bedelin A katsayýsý ile çarpýmý sonucu hesaplanýr.
+d) Sýhhi tesisat projelerinin incelenmesi ve onaylanmasý:
+      1) Yapý ruhsatý alýnmasý sürecinde su ve kanalizasyon durum belgesi verilmeden önce bina ve yapýlara ait sýhhi tesisat projelerinin Ýdare tarafýndan incelenerek onaylanmasý zorunludur.
+      2) Ýdare tarafýndan onaylanan projelerde özel veya tüzel kiþilerce revizyon yapýlmasýnýn talep edilmesi halinde bedeli karþýlýðýnda revize projeler tekrar Ýdarenin onayýna sunulur.
+      3) Sýhhi Tesisat projelerinin onay bedeli, hattýn uzunluðuna baðlý olarak bu maddenin (a) bendine göre tarafýndan belirlenen bedelin A katsayýsý ile çarpýmý sonucu hesaplanýr. Su ve Kanalizasyon Durum Belgesi hazýrlanmasý aþamasýnda gerçekleþtirilen proje inceleme ve onaylama iþlemleri için bedel alýnmaz.
+e) Revize proje onay bedeli
+      1) Ýdare tarafýndan onaylanan projelerde, idarenin kusuru olmaksýzýn revizyon talep edilmesi durumunda; Ýdare tarafýndan onay veya yapým için alýnan ücretin 1/10’u kadar revize proje inceleme ve onaylama ücreti alýnýr.
+Deþarj kalite kontrol ruhsatý (DKKR) bedeli
+      MADDE 21- (1) Endüstriyel atýksu kaynaklarýna atýksularýyla ilgili almýþ olduðu tedbirlerin ilgili mevzuatýna uygun olmasý þartýyla verilen Deþarj Kalite Kontrol Ruhsat Belgesi karþýlýðýnda alýnan bedeldir.
+      
+      (2) Tahakkuka esas bedel endüstriyel atýksu debisine baðlý olarak Genel Kurul tarafýndan belirlenir.
+Havza atýksu kontrol belgesi (HAKB) bedeli
+      MADDE 22- (1) Su Havzalarý Koruma Yönetmeliði esaslarýna uygun olarak, içme suyu havzalarýnda bulunan iþletmelerin atýksularýnýn ilgili yönetmeliklerde belirlenen esaslar doðrultusunda bertaraf edilmesi durumunda verilen Havza Atýksu Kontrol Belgesi bedelidir.
+(2) Tahakkuka esas bedel debiye baðlý olarak Genel Kurul tarafýndan belirlenir.
+
+Kirlilik yükü bedeli (KYB)
+      MADDE 23- (1) Özel arýtma gerektiren kirlilik yükü fazla atýksu üreten, endüstriyel nitelikte atýksu oluþturan tesis ve iþletmelerden, kirlilik yüküne göre Atýksularýn Kanalizasyona Deþarj Yönetmeliðinde belirtilen esaslar doðrultusunda Kirlilik Yükü Bedeli alýnýr.
+Atýksu bertaraf hizmet bedeli
+      MADDE 24- (1) Endüstriyel atýksu üreten kaynaklarýn; Atýksularýn Kanalizasyona Deþarj Yönetmeliðinde belirlenen deþarj þartlarýna uygun olmayan atýksularýnýn vidanjörle arýtma tesislerine deþarj edilmesi, aboneliði olmayan atýksu kaynaðýnýn mücbir sebepler nedeniyle atýksuyunun kanala ya da arýtma tesisine kabul edilmesi, aboneliði bulunan ancak atýksuyunun taþýnmasýnýn mümkün olmadýðý hallerde doðrudan kanala verilmesi için ilgili birimin onay vermesi gerekmektedir. Bu tür atýksularýn arýtma ve/veya bertaraf iþlemleri için atýksuyun miktarý ve kirlilik yüküne baðlý olarak hesaplama yapýlarak, atýksu bertaraf hizmet bedeli tahakkuk ettirilir.
+(Deðiþik: 15.11.2019 Tarih, 10 Sayýlý ÝSU G.K.K)
+Laboratuvar ölçüm ve analiz bedeli
+      MADDE 25- (1) Ýdare tarafýndan izin, lisans, izleme ve denetim amacýyla veya gerçek ve tüzel kiþiler tarafýndan talep edilmesi halinde ilgili mevzuatta belirlenen usul ve esaslara göre numune alýnarak laboratuvarda yapýlan testlerin karþýlýðýnda alýnan bedeldir.
+       (2) Çevre, Ölçüm ve Analizleri Yeterlik Belgesi kapsamýndaki laboratuvar ölçüm ve analiz bedelleri, Çevre ve Þehircilik Bakanlýðý tarafýndan yayýmlanan asgari fiyat tarifesi uygulanýr.
+      (3) Çevre, Ölçüm ve Analizleri Yeterlik Belgesi kapsamýndaki ölçüm ve analiz bedelleri için Bakanlýkça sonraki yýlýn tarifesi yayýmlanýncaya kadar mevcut tarife geçerli olur.
+      (4) Çevre, Ölçüm ve Analizleri Yeterlik Belgesi kapsamýna yeni parametrelerin ilave edilmesi durumunda bu maddenin ikinci ve üçüncü fýkrasý uygulanýr.
+      (5) Analiz hizmeti talebinde bulunan kurum kuruluþ ya da þahýslara talep ettikleri analizin amacýna baðlý olarak aþaðýda belirtilen maddelere istinaden Yönetim Kurulu kararý ile analiz bedellerinde uygulanacak þartlarý kapsar.
+       a) Kamu kurum veya kuruluþlarý ve özel firmalarýn uzun süreli çalýþmalarýnda numune sayýsýna baðlý olarak ikili protokoller çerçevesinde listede belirtilen analiz fiyatlarýna özel indirimler uygulanabilir.
+      b) Gerçek veya tüzel kiþilerden gelebilecek tez, proje, AR-GE ve benzeri nitelikteki deney hizmeti talepleri ya da idare ile ortaklaþa gerçekleþtirilecek olan proje veya AR-GE çalýþmalarý kapsamýnda gelen deney taleplerinde numune sayýsýna baðlý olarak özel indirimler uygulanabilir.
+      (6) Çevre, Ölçüm ve Analizleri Yeterlik Belgesi kapsamý dýþýndaki laboratuvar ölçüm ve analiz bedellerinde Saðlýk Bakanlýðý Halk Saðlýðý Genel Müdürlüðü tarafýndan yayýmlanan Fiyat Tarifeleri ve Analiz Bilgileri Rehberi uygulanýr. Bu fiyat tarifesinde yer almayan analiz bedelleri için Çevre ve Þehircilik Bakanlýðý fiyat tarifesi uygulanýr.
+      (7) Çevre, Ölçüm ve Analizleri Yeterlik Belgesi kapsamý dýþýndaki laboratuvar ölçüm ve analiz bedellerinde Saðlýk Bakanlýðý Halk Saðlýðý Genel Müdürlüðünce sonraki yýlýn tarifesi yayýmlanýncaya kadar mevcut tarife geçerli olur.
+       (8) Kocaeli Su ve Kanalizasyon Ýdaresi Genel Müdürlüðü hizmet sahasý içinde bulunan Kamu kurum veya kuruluþlarý tarafýndan þebeke suyu ile ilgili denetim veya kullaným izinleri kapsamýnda deney hizmeti talebine karþýlýk yýlda en fazla iki kez olmak þartý ile numune alýnýr ve alýnan numuneler bedelsiz analiz edilir.
+      (9) Kocaeli Su ve Kanalizasyon Ýdaresi Genel Müdürlüðü hizmet sahasý içinde bulunan halkýn içme ve kullanma amaçlý kullandýðý vakýfsularý, köy çeþmeleri ve benzeri sulardan alýnan numuneler bedelsiz analiz edilir.
+      (10) Ýdare tarafýndan alýnan atýksu numunelerinde yerinde ölçümü yapýlan pH, sýcaklýk, oksijen ve iletkenlik parametrelerinin analiz bedeli tahakkukunda meri mevzuat hükümlerine göre iþlem yapýlýr.
+(11) Ýdare tarafýndan alýnan atýksu numunelerinde;
+      a) Arýtma tesisi kurmuþ atýksu kaynaklarýnýn arýtma tesisi çýkýþýnda kompozit numune alma yapýsýndan numune alýnmasý durumunda, anlýk numune alma bedeli tahakkuk ettirilir.
+      b) Arýtma tesisi kurmuþ atýksu kaynaklarýnýn denetimi amacýyla arýtma te sisi çýkýþýndan numune alýnmasý durumunda
+      
+1) Atýksu debisi Q<50 m3/gün ise numune alma bedeli tahakkuk ettirilmez.
+       2) Atýksu debisi Q> 50 m3/gün ise numune alma bedeli bu maddenin (a) bendinde belirtildiði þekilde tahakkuk ettirilir.c) Bu maddenin (b) bendi kapsamý dýþýnda alýnan atýksu numuneleri için numune alma bedeli tahakkuk ettirilir.
+SCADA sistemi izleme bedeli
+      MADDE 26- (1) Gerçek zamanlý uzaktan atýksu izleme sistemi tarafýndan aktarýlan verilerin iþletmeler tarafýndan izlenebilmesi ve alýnan numunelerin analizleri için sanayi kuruluþlarý tarafýndan karþýlanmasý gereken ve Genel Kurul tarafýndan belirlenen bedeldir.
+(2) Abonenin dönemsel tahakkuklarý ile birlikte aylýk olarak alýnýr.
+(Deðiþik: 15.11.2019 Tarih, 10 Sayýlý ÝSU G.K.K)
+Su ve kanalizasyon tesislerine katýlma paylarý
+       MADDE 27- (1) 2464 sayýlý Belediye Gelirleri Kanunu gereði Ýdare içme, kullanma, endüstri suyu ve kanalizasyon yatýrýmlarý maksadýyla yapýlan harcamalar ile istek üzerine Ýdare tarafýndan yapýlacak iþlerin toplam yatýrým giderleri, tesisin hizmet edeceði saha dahilindeki gayrimenkullerin sahiplerinden Su ve Kanalizasyon Tesisleri Harcamalarýna Katýlma Payý olarak alýnýr.
+(2) Su ve kanalizasyon tesislerine katýlma paylarýný belirlemeye Genel Kurul yetkilidir.
+       (3) Konut ve iþyeri abonelerinden her baðýmsýz birim için Su ve/veya Kanalizasyon Tesislerine Katýlma Payý 1 metre maliyetleri katýlma payý olarak yeni abone tesis bedeli kapsamýnda alýnýr.
+      (4) Üçüncü fýkrada belirtilen abone grubu haricinde sanayi, toplu iþ merkezi ile diger abone gruplarýndan Su ve Kanalizasyon Tesislerine Katýlma Paylarý: KP = ((L x T) / D)/2 formülüne göre hesaplanan deðerdir. Bu deðer gayrimenkulün vergi deðerinin %2 sini geçemez.
+Su ve Kanalizasyon Tesisleri Harcamalarýna Katýlma Payý = KP Tesislerden faydalanacak Gayrimenkulun Yola Nazaran Arsa Cephesi = L Su veya Kanalizasyon Tesislerine Katýlma Payý 1 Metre Maliyeti= T Gayrimenkulun Baðýmsýz Birim Adedi = D
+      (5) Ýdarenin sorumluluk alanýnda içmesuyu daðýtým ve kanalizasyon toplama tesisleri bulunmayan mahallerde, bu tesislerin Ýdarenin projelerine ve teknik görüþüne uygun olmak, Ýdarenin onayý alýnmak ve þebeke baðlantýsý Ýdare tarafýndan yapýlmak þartýyla en yakýn uç noktalara kadar kendilerince tesis eden abonelerden içme suyu ve kanalizasyon katýlým paylarý alýnmaz. Þebeke ve tesisler abonelik sözleþmesinin yapýmý tarihinden itibaren Ýdarenin mülkiyetine geçer.
+      Bu tesislerin, taþýnmaz sahiplerinin baþvurusu üzerine program dýþý olarak Ýdare tarafýndan yapýlmasý durumunda, 29. maddeye göre hesaplanan toplam deðer üzerinden bulunacak maliyetine göre bu maddenin ikinci fýkrasýnda belirtildiði þekilde hesaplanacak su ve/veya kanal katýlma payý, faydalanacaklara tahakkuk ettirilir.
+(6) Ýbadet yerlerine resmi park ve bahçelere, genel çeþmelere, genel tuvaletlere ve köy sýnýrlarý içindeki
+ahýr aboneleri ile köy yerleþim alaný dahilindeki bahçe abonelerine katýlma paylarý tahakkuku yapýlmaz. Resmi aboneler haricindeki bahçe abonelerinden sadece su katýlým payý alýnýr. Bahçe aboneliðinin mesken, iþyeri veya diðer abone tiplerine dönüþtürülmesi durumunda ayrýca kanal katýlým payý da alýnýr.
+      (7) Su abonesi olarak su ve kanalizasyon tesisleri harcamalarýna katýlma payý ödemiþ olan yerlerde sonradan tesis eden atýksu (KSUB) abonelerinden sadece kanal katýlým payý alýnýr.
+(8) 5216 sayýlý Kanunla belediyelerden devir alýnmýþ abonelerin katýlým paylarý ödenmiþ kabul edilir.
+      (9) Ýnþaat süresi sonunda abone grubu ve tarife türü Ýdarece yapýlacak tespite göre deðiþtirilerek inþaat ruhsatýnda belirtilen baðýmsýz birim veya ortak mahallerden birini kullanan abonelerden tekrar katýlým payý alýnmaz.
+Su ve atýksu tesisleri bakým bedeli
+      MADDE 28- (1) Abonelerden tahakkuk oluþturulan her dönem için her türlü bakým iþleri karþýlýðý abonenin tabi olduðu su satýþ tarifesi üzerinden 1 m³ su ve atýksu miktarý karþýlýðý bakým ücreti, tanker ve kuyu suyu kullanan abonelerden de ait olduðu tarife grubundaki 1 m³ su miktarý su ve atýksu tesisleri bakým bedeli olarak alýnýr.
+(2) Su kullanýmý olmayan abonelerden ve kartlý sayaç abonelerinden bakým bedeli alýnmaz.
+(Deðiþik: 15.11.2019 Tarih, 10 Sayýlý ÝSU G.K.K)
+Ýçmesuyu ve kanal yapým bedelleri ve baðlantý bedelleri
+      MADDE 29- (1) Cephesinde kanalizasyon ve içmesuyu þebekesi bulunan, mevzi planlar hariç imar planý ve uygulamasý yapýlmýþ, köy yerleþim ve geliþim alaný içerisindeki yerlerde içmesuyu için þebeke hattýndan ilk abone sayacý tesisatýna, kanalizasyon için baðlantýsý teknik olarak uygun ise taþýnmaz sýnýrýnýn en fazla 1 metre içerisindeki parsel bacasý dahil parsel bacasýna kadar malzeme ve iþçilik bedelleri, yeni abone tesis bedeli karþýlýðý olarak Ýdare tarafýndan yapýlýr. Sonrasýndaki baðlantýlar taþýnmaz sahibince yapýlýr veya talep ediliyorsa Ýdare tarafýndan bedeli karþýlýðý yapýlabilir. Sayaç yeri ve Kanalizasyon baðlantýsý ile ilgili hususlar yönerge ile belirlenir.
+      
+      (2) Cephesinde kanalizasyon ve içme suyu þebekesi bulunan yerlerde taþýnmaz sahipleri kendilerine ait atýksu hatlarýný Ýdarece onaylý baðlantý projesine uygun olarak kanalizasyon þebekesine baðlamak zorundadýr.
+      (3) Cephesinde kanalizasyon þebekesi bulunmayan yerlerde; Ýdarenin yapmakla yükümlü olduðu ancak yatýrým programýna alamadýðý kanalizasyon þebekesinin yapýmý taþýnmaz sahiplerinin talebi ve Ýdarenin de uygun görmesi halinde Ýdare tarafýndan üstlenilir. Ancak taþýnmaz sahipleri bu Yönetmeliðin 27 nci maddesine göre su ve kanalizasyon tesislerine katýlma paylarýný ve baðlantý bedellerini öderler. Taþýnmaz sahipleri þebekenin yapým iþini kendileri üstlenirlerse Su ve kanalizasyon tesislerine katýlma paylarýný ödemezler, sadece baðlantý bedellerini öderler. Yapým bedeli; gerekli
+      Baðlantý hatlarý uzunluðu ile Ýdarece belirlenmiþ metre/tül birim fiyatý çarpýlarak bulunacak miktar üzerinden hesaplanýr.
+       (4) Cephesinde kanalizasyon þebekesi bulunmayan yerlerde taþýnmazýn yapýmý bitirilip kullanýlmaya baþlanacaðý tarihe kadar kanalizasyon þebekesinin yapýlamadýðý hallerde, Ýdare tarafýndan projesi onaylanmýþ fosseptik veya benzeri geçici bir tesis yaptýrýlmasý yoluna gidilir. Bu yapýlmadýðý takdirde yapýya içme suyu verilmez. Kanalizasyon þebekesi yapýldýðýnda yapý sahibi veya sahipleri atýksu kanallarýný bu tesise baðlamak zorundadýr.
+      (5) Taþýnmazýn kanalizasyon ve içme suyu baðlantý hatlarýnýn yapýmý sýrasýnda; doðalgaz, elektrik, telefon gibi hizmetleri sunan kuruluþlarýn altyapý tesislerine verilen hasarlar Ýdare tarafýndan yapýlýr veya yaptýrýlýr. Bedeli zarar verenlerden tahsil edilir.
+       (6) Ýlk baðlantý veya mevcut hatta meydana gelen arýzanýn onarýmý için Ýdarece kazý ruhsat izin belgesi düzenlenir ve ilgili Belediyesine/Müdürlüðe yönlendirilir.
+Su ve kanal tamir bedeli
+      MADDE 30- (1) Þube yolunun bakým ve onarýmýndan Ýdare, abone yolunun bakým ve onarýmýndan abone sorumludur.
+      (2) Abone yolunda meydana gelen arýzalarýn onarýmý için yapýlacak tüm giderler, bedeli aboneler tarafýndan ödenmek þartýyla Ýdare tarafýndan yapýlabilir.
+      (3) Bakým ve onarýmda kullanýlan malzeme, araç ve iþçilik bedelleri, ilgili abone yolundan yararlanan tüm abonelere paylaþtýrýlýr.
+      (4) Abone yolunda meydana gelen arýzalardan kaynaklanan ölçülemeyen su kayýplarý hesaplanarak ilgililerine tahakkuk edilir.
+      (5) Bakým ve onarým yapýlýrken abone yolunda meydana gelebilecek hasarlardan Ýdare sorumlu tutulamaz. Zorunlu olarak yýkýlan, kýrýlan, tahrip edilen diðer yapýlarýn yapýmý Ýdareden talep edilemez. Ýdarenin imkanlarý çerçevesinde yapýlamayacak su bakým ve onarýmlarý ise Ýdarenin kontrolünde abone tarafýndan yaptýrýlýr.
+      (6) Bakým ve onarým yapýlýrken üçüncü þahýslarýn uðradýðý zararlarýn tazmin yükümlülüðü abonelere aittir. Ýdare üçüncü þahýslarýn uðradýðý zararlarý tazmin etmek durumunda kalýrsa ihmal veya kusuru olan abonelere rücu edilir.
+(Deðiþik: 15.11.2019 Tarih, 10 Sayýlý ÝSU G.K.K)
+Abone keþif bedeli MADDE 31-	Mülga
+(Deðiþik: 15.11.2019 Tarih, 10 Sayýlý ÝSU G.K.K)
+Yeni Abonelik tesisi ve plaka bedeli
+      MADDE 32- (1) Ýdareden su almak üzere müracaat edildiðinde þube yolu, abone yolu, sayaç tesisatý ve sayaç yeri keþfi yapýlýr. Bu aþamada abonelik keþfinde Ýdarece onaylanmýþ proje, Su ve Kanalizasyon Durum Belgesi veya Ýdarenin ilgili mevzuatýna uygunluk kontrol edilir. Keþif iþlemi sonucunda deðiþiklik istenen hususlar varsa bu deðiþiklikler yapýlýncaya kadar abonelik tesis edilmez.
+      (2) Ýlk abonelik aþamasýnda keþif, abonelik iþlemleri, plaka, dn20 sayaç ve rakor, su ve kanalizasyon baðlantýsý ile su ve kanalizasyon tesislerine katýlma paylarý karþýlýðý Genel Kurulca belirlenen yeni abonelik tesis bedeli alýnýr. Mevzuatý kapsamýnda olmayan veya muaf olunan sayaç, rakor, su ve kanalizasyon baðlantýsý ile su ve kanalizasyon tesislerine katýlma paylarý yeni abonelik tesis bedeli tahakkuklarýndan çýkarýlabilir.
+      (3) Yeni abonelik tesis bedeli kapsamýndaki Su ve kanalizasyon baðlantýsýna iliþkin esaslar bu Yönetmeliðin 29 uncu maddesinde belirtilmiþtir.
+Sayaç, vana, pislik tutucu ve diðer malzeme satýþ bedeli
+MADDE 33- (1) Su sayaçlarý abonelere Ýdare tarafýndan bedeli karþýlýðýnda temin edilir.
+      (2) Ekonomik ömrünü doldurmuþ, bozulmuþ, buharlý DN25 ten küçük çaptaki sayaçlar deðiþtirildiklerinde sayaç bedeli ve sökme-takma bedeli alýnmaz.
+(3) Vanalar ile pislik tutucular takýldýklarýnda veya deðiþtirildiklerinde bedeli aboneden alýnýr.
+(4) Sayaç, vana, pislik tutucu ve imalat ve abone uygulamalarýnda kullanýlan diðer malzemelerin
+      
+satýþ bedelleri teknik özellik ve niteliklerine göre Genel Kurul tarafýndan belirlenir.
+Sayaç ve tesisat montaj, sayaç sökme takma ve açma bedeli
+      MADDE 34- (1) Sayaç ve sayaca baðlý tesisat ile üzerine monte edilen vana, pislik tutucu ve diðer malzemelerin montajý için alýnacak bedel çaplarýna göre Genel Kurul tarafýndan belirlenir.
+      (2) Su kapatma nedeniyle sayacýn sökülerek Ýdarenin zimmetine alýnmasý ve tekrar yerine takýlmasý durumunda Genel Kurul tarafýndan belirlenen sökme takma bedeli alýnýr.
+(3) Su açma bedeli Genel Kurul tarafýndan belirlenir.
+Teminat bedeli
+      MADDE 35- (1) Ýdare ile sözleþme imzalayan her aboneden, abonelik sözleþmesinin sona ermesi veya sözleþmenin feshi halinde muhtemel ödenmemiþ borçlarýna karþýlýk olarak borcuna mahsup edilmek üzere abone grubuna göre en az bir tahakkuk dönemindeki su ve/veya atýksu bedelini karþýlayacak kadar teminat bedeli alýnýr.
+(2) Abone gruplarýna göre alýnacak teminat bedelleri, Genel Kurul tarafýndan belirlenen m3
+miktarýn, abone grubuna ait su ve/veya atýksu tarifesindeki m3 bedeli ile çarpýlmasý suretiyle hesaplanýr.
+Kademeli tarife uygulanan abonelerde teminat bedeli, birinci kademe bedeli üzerinden belirlenir.
+       (3) Genel ve yerel yönetim kapsamýndaki kamu kuruluþlarýndan ve kartlý su sayacý kullanacak abonelerden teminat bedeli alýnmaz.
+(4) Teminat bedeli abone sözleþmesi yapýlýrken peþin olarak alýnýr.
+      (5) Grubu deðiþen abonelerden önceki grubunda alýnmýþ teminat bedeli grubunda alýnmasý gereken bedele güncellenir. Yeni abone grubunda hesaplanan teminat tutarý eski teminat tutarýndan fazla ise teminat bedeli farký aboneden alýnýr; az olmasý halinde, teminat bedeli farký aboneye iade edilir.
+(6) Sözleþmesi feshedilen abonenin borcu Ýdare tarafýndan mevcut teminat bedelinden mahsup
+edilerek tahsil edilebilir.
+      (7) Abonelik sözleþmesi yapýldýðýnda m3 karþýlýðý olarak alýnan teminat bedeli,	sözleþme feshedildiðinde alýnan m3 karþýlýðý olarak güncel tarife bedeli üzerinden aboneye iade edilir.
+      (8) Özel bir sözleþme veya protokol ile su satýþý yapýlan abonelerde sözleþme gereði alýnacak teminat veya teminat mektuplarý tutarýna iliþkin hususlar yönerge ile belirlenir.
+      (9) Teminat bedelleri, abonelerin tüketim alýþkanlýklarý, nüfus, kuraklýk ve mevzuat deðiþiklikleri gibi hususlar dikkate alýnarak Genel Kurul tarafýndan deðiþtirilebilir.
+ALTINCI BÖLÜM
+Yaptýrýmlar Tarifesi
+Su kapatma ve açma
+      MADDE 36- (1) Kanun ve yönetmelikler ile abone sözleþmesine aykýrý davranýþta bulunanlarýn tespiti halinde kullanýcýnýn suyu mühür veya kelepçe takýlarak vanadan; sayaç sökülerek, priz ya da kolyeden olmak üzere Ýdarenin uygun göreceði þekilde kullanýma kapatýlýr.
+      (2) Kapatmayý gerektiren fiili veya hukuki durumun ortadan kalkmasý halinde, açma bedeli alýnarak abonenin suyu açýlýr.
+      (3) Ýdarece kapatýlan suyun kapatma aparatýnýn kýrýlarak, sökülerek, kapatma mührünün kopartýlarak kullanýldýðýnýn tespit edilmesi halinde Bu Yönetmeliðin 40 ýncý maddesinin beþinci fýkrasý hükmü uygulanýr.
+      (4) Su kapama ve açma bedeli dýþýnda, abone veya kullanýcý tarafýndan Ýdare daha aðýr bir külfete katlanmak zorunda býrakýlmýþ ise Ýdare katlandýðý maddi yükümlülüðün bedelini ilgiliden tahsil eder.
+Zamanýnda ödenmeyen borçlar
+      MADDE 37- (1) Aboneler, tahakkuk eden fatura bedellerini fatura bildiriminde belirtilen son ödeme gününe kadar ödemekle yükümlüdür. Ýdare ayrýca ödeme bildiriminde bulunma hakkýný saklý tutar.
+(2) Borcunu ödemeyen abonelere aþaðýdaki yaptýrýmlar uygulanýr:
+      a) Gecikme zammý: Abonelerin borçlarýný faturanýn son ödeme tarihine kadar ödememesi halinde tahsilâtý hýzlandýrmak ve tüm abonelerin borçlarýný süreleri içinde ödemelerini temin için gecikme zammý ilave edilir.
+      1) Gecikme zammý oranlarýný belirlemeye, uygulama süresini tespite Genel Kurula sunmaya Yönetim Kurulu yetkilidir.
+      2) Kaçak ve usulsüz su kullaným müeyyide bedeline gecikme zammý uygulanmaz; ancak tespit edilen kaçak su miktarý normal su olarak tahakkuk ettirilir ve kullanýlan su bedeline gecikme zammý uygulanýr.
+      3) Ceza tahakkuku dýþýndaki tahakkuksuz gelirlerin ödeme tarihine kadar ödenmemesi halinde gecikme zammý ilave edilir.
+4) Ay kesirlerine isabet eden gecikme zammý günlük olarak hesap edilir.
+      
+5) Gecikme zammý tahsilat sýrasýnda hesaplanarak tahsil edilir.
+      b) Su kapatma: Fatura bildiriminde belirtilen son ödeme gününe kadar borçlarýný ödemeyen abonelerin suyu kapatýlýr ve borcun tahsili için yasal takip baþlatýlýr.
+      1) Su kapanmasýna raðmen, borç tahsil edilemezse abonenin teminat bedeli borcuna mahsup edilmek suretiyle sözleþmesi feshedilebilir.
+      2) Su kapatmaya esas olacak borcun miktarý ve kýstaslarýný belirlemeye Yönetim Kurulu yetkilidir.
+      3) Suyu kapatýlmýþ aboneler, abone sözleþmesinin iptali tarihine kadar tahakkuk edecek bedelleri ödemekle sorumludur.
+      4) Abone sözleþmesini feshetmeden aboneliði terk edenler, fiili kullanýcý olmasalar dahi baþkalarýnýn tüketimi nedeniyle tahakkuk eden su ve/veya atýksu bedellerinden fiili kullanýcý ile birlikte müþterek ve müteselsilen sorumludur.
+      5) Taþýnmaz maliki veya intifa hakký sahibi, kiracýsýnýn Ýdareye abone olmasýný saðlamakla yükümlüdür. Aksi halde taþýnmaz sahibi veya intifa hakký sahibi, abone olunmaksýzýn kullanýlan her türlü su ve/veya atýksu tahakkuklarý gibi borçlardan fiili kullanýcý ile birlikte müþterek ve müteselsilen sorumludur.
+      6) Sermaye þirketlerinin ortaklarý, þirketten tamamen veya kýsmen tahsil edilemeyen veya tahsil edilemeyeceði anlaþýlan borçlarýndan, þirkete koymayý taahhüt ettikleri fakat koymadýklarý sermaye tutarýnda tüm mal varlýklarý ile sorumludurlar. Bu sorumluluk her bir ortak için ortaklýk süresini kapsayan dönemlerde tahakkuk eden borçlarla sýnýrlýdýr.
+      7) Borcundan dolayý suyu kapatýlan ya da borcunu ödemeden aboneliði terk edenlerin varsa diðer bir abonelikte kullandýklarý su da kapatýlabilir.
+      8) Su veya atýksu borcunun dýþýnda bu Yönetmelikte sayýlan ve ödenmesi gereken diðer bedelleri ödemeyenler hakkýnda da ayný iþlemler yapýlýr.
+Kaçak su kullanýmý
+      MADDE 38- (1) Kaçak Su Kullanýmý; abone olmadan su daðýtým þebeke hattýndan veya þube yolundan Ýdareye ait kuyu veya kaynaktan delerek, boru döþeyerek, motor baðlayarak veya farklý surette su temin etmek, abone olup da sayaçsýz veya sayacý iþletmeyecek herhangi bir tertibatla su kullanmaktýr.
+      a) Abonesiz ve sayaçsýz su kullananlar: Tespit edildiklerinde kaçak su baðlantýsý ortadan kaldýrýlýr, su kullanýmý engellenir, ceza tahakkuku yapýlýr. Kaçak kullanýmýn süresi ve kaçak tüketim miktarý tahakkuk edecek ceza tutarýna esas oluþturur. Kaçak kullanýmýn baþlangýç tarihinin tespit
+edilemediði durumlarda kullanýcýnýn 12 aydan beri su tüketildiði kabul edilir. Buna göre;
+      1) Konutlarda aylýk 15 m3 su tüketildiði farz edilerek, yürürlükteki konut ikinci tarifesinin 3 katý bedelle ceza tahakkuk ettirilir. Bu hesap (kullaným süresi veya 12 ay x 15 m3) x (tarife bedeli x 3)
+formülüyle yapýlýr.
+      2) Birden fazla tuvalet ve lavabosu bulunmayan ve faaliyetinin ana unsuru olarak su kullanýlmayan ofis, büfe, bakkal gibi iþyerlerinde aylýk 10 m3, diðer iþyerlerinde ise aylýk 30 m3 su
+tüketildiði farz edilerek yürürlükteki iþyeri tarifesinin 3 katý bedelle ceza tahakkuk ettirilir. Bu hesap (Kullaným süresi veya 12 ay x 10 veya 30 m3) x ( Tarife bedeli x 3) formülüyle yapýlýr.
+3) Ýnþaatlarda kullanýlan su miktarý (Toplam Ýnþaat alaný/2 = m3) formülüne göre hesaplanýr ve
+inþaat tarifesinin 3 katý bedelle ceza tahakkuku yapýlýr.
+4) Sanayi kuruluþlarýnda ve diðer abonelerde 100 m3 den az olmamak kaydýyla, emsalleriyle de
+karþýlaþtýrýlarak bulunacak aylýk tüketim miktarýna yürürlükteki tarifesinin 3 katý bedelle ceza tahakkuk ettirilir. Bu hesap (Kullaným süresi veya 12 ay x 100 m3 veya emsal m3) x ( Tarife bedeli x 3) formülüyle
+yapýlýr.
+      5) Kaçak su kullanýmýnýn ayný yerde tekrarý durumunda ilk tespitteki tarihten tekrar tespit tarihine kadar geçen dönem için yukarýdaki alt bentlere göre hesaplanan tahakkukun 2 katý bedelle ceza alýnýr. Ayrýca abone hakkýnda kanuni iþlemlere baþlanýr.
+      b) Aboneli ve sayaçsýz su kullanýmý: Bir abonesi olup da sayacýnýn sökülmesi yoluyla sayaçtan geçirmeden doðrudan veya bir tertibat kurularak su alýndýðý durumlarda abone kaçak su kullanýyor kabul edilir. Sayacýn çalýþmasýnýn kasten engellendiði ve devre dýþý býrakýldýðý haller de kaçak kullaným kapsamýnda deðerlendirilir. Bu þekilde su kullanýmý yapanlar tespit edildiðinde bu maddenin (a) bendinde belirtilen þekilde iþlem yapýlýr.
+      c) Kaçak su kullanýmý ceza tahakkuklarýna su bedeli ile birlikte hesaplanan Katma Deðer Vergisi ve Çevre Temizlik Vergisi tahakkuk ettirilir.
+Usulsüz su kullanýmý
+MADDE 39- (1) Abonenin sözleþmeye aykýrý þekilde su kullanmasý veya kullandýrmasýdýr.
+(2) Abone olmaksýzýn sayaçtan geçirerek su kullananlar da usulsüz su kullanmýþ sayýlýrlar.
+      (3) Kullanýcý tarafýndan sayaca hiçbir þekilde müdahale olmamasý, usulsüz kullaným sayýlmasý için ön þarttýr. Abone olmadan kullanýmýn süresi ile sayaçtaki göstergenin uyum arz etmesi halinde
+      
+kanuni soruþturma yollarýna müracaat edilmez.
+      a) Abonesiz ve sayaçlý su kullananlar: Tespit edildiklerinde su kapatýlýr. Usulsüzlük sebebi ortadan kaldýrýlýr. Aþaðýda belirtilen durumlara göre ceza tahakkuk ettirilir.
+      1) Abone tesis edilmiþ yerlerde abone sözleþmesi yapmadan sayaçlý olarak su kullananlara sayaç üzerindeki kayýtlý endekse, yürürlükteki tarife bedeli üzerinden 2 katý bedelle ceza tahakkuk eder. Tespit edilen endeks abonenin baþlangýç endeksi olarak kabul edilir. Bu türden su kullanýmý yapanlara abone sözleþmesi yapmalarý için 7 gün süre verilir.
+      2) Abonelik tesisi yapýlmamýþ ancak sayaçlý olarak su kullanan yerlerde kayýtlý endekse yürürlükteki tarifesinin 2 katý bedelle ceza tahakkuku yapýlýr. Bu türden su kullanýmý yapanlara abone sözleþmesi yapmalarý için 7 gün süre verilir.
+b) Sayaca müdahale:
+      1) Donarak patlayanlarýn dýþýnda Ýdarenin haberi olmadan sayacýn yerinin deðiþtirildiði, sayaç mührünün kopartýldýðý, rakorlara takýlan kelepçelerin, mühürlerin söküldüðü, baþka bir sayaçla deðiþtirildiði tespit edildiðinde; ortalama tüketim miktarý üzerinden 2 katý bedelle ceza tahakkuk ettirilir.
+2) Sayacýn baþka bir sayaçla deðiþtirilmesi veya herhangi bir sebeple sökülmesi veya takýlmasý
+durumunda, sökülen sayacýn ve takýlan sayacýn markasý, numarasý, çapý, kayýt ettiði su miktarý saptanýr ve kayda geçirilir.
+      3) Sayacýn donmasýna karþý tedbir almayan, sayacý onarýlmayacak þekilde bozan, yok eden abonenin sayacý Ýdare tarafýndan yeni sayaç ile deðiþtirilir ve bedeli tahsil edilir. Sayaç üzerindeki mührün abone müdahalesi dýþýnda oksitlenme benzeri sebeplerle kendiliðinden kopmuþ olmasý ve abonenin bunu Ýdareye bildirmesi halinde sayaçtaki mevcut endeksin ortalama tüketim miktarýyla uyum arz etmesi kaydýyla ceza uygulanmaz.
+      4) Abonenin sayaca müdahale ederek ters baðladýðý tespit edildiðinde son okunan endeksle sayaç üzerindeki endeks arasýndaki fark tahakkuk ettirilir ayrýca farkýn bir katý kadar ceza tahakkuku yapýlýr.
+Kaçak ve usulsüz kullanýma dair diðer hususlar
+      MADDE 40- (1) Kaçak ve usulsüz su kullanýmý Ýdare tarafýndan görevlendirilen en az iki personel tarafýndan yerinde yapýlacak araþtýrma ve soruþturma sonucu tespit edilerek tutanakla kayýt altýna alýnýr. Tutanaðýn bir sureti, ilgilinin imzasý alýnabilirse kendisine; imzadan imtina etmesi veya ilgilinin bulunamamasý halinde bu husus tutanaða geçirilerek baðýmsýz birimine býrakýlýr. Bu iþlem bildirim yerine geçer. Ayrýca kaçak baðlantýnýn fotoðrafý çekilir ve baðlantý iptal edilir.
+      (2) Tespit tutanaðýnda yer alan bilgiler doðrultusunda gerekli tahakkuk iþlemleri yapýlýr. Tahakkuklara iliþkin ödeme bildirimi ayrýca aboneye teblið edilir. Hakkýnda tutanak düzenlenen kullanýcý tutanak tarihinden itibaren 7 gün içerisinde Ýdareye baþvurup, tutanakta belirtilen fiiliyle ilgili iþlemleri yapmak, tahakkuklarý ödemek ve su kullanýmý süreklilik arz ediyorsa abonelik sözleþmesi yapmak zorundadýr.
+      (3) Kaçak veya usulsüz su kullanýlmaya ne zaman baþlanýldýðýnýn tespitinde olayýn gerçek mahiyeti esastýr. Her türlü delil ile ispat edilebilir. Ýktisadi, ticari ve teknik icaplara uymayan veya olayýn özelliðine göre normal ve mutad olmayan bir durumun iddia olunmasý halinde ispat külfeti bunu iddia eden tarafa aittir.
+      (4) Sayaç takýlarak kaçak kullaným söz konusu ise ve sayacýn üzerindeki endeks ile su kullaným süresinin mütenasip olduðuna kanaat getirilirse sayacýn üzerindeki endeks dikkate alýnarak, kanaat getirilmez ise veya sayaçsýz kaçak kullaným söz konusu ise bu Yönetmeliðin 38 inci maddesine göre iþlem yapýlýr.
+      (5) Ýdarenin kapatmýþ olduðu suyu açarak kullananlar tespit edildiðinde; 3 katý açma bedeli karþýlýðý ceza tahakkuk ettirilir. Sayaçsýz olarak kullaným söz konusu ise abonenin türüne göre bu Yönetmeliðin 38 inci maddesine göre iþlem yapýlýr.
+      (6) Temin ettiði suyu daimi veya geçici baðlantý yaparak veya naklederek bir baþkasýna satan veya kullandýran aboneler tespit edildiðinde satýn alanlar veya kullananlarla birlikte her bir kiþi veya tüzel kiþiye ayrý ayrý olmak üzere aþaðýdaki yaptýrýmlar uygulanýr:
+      a) Baðlantý sayaçtan sonra yapýlmýþsa usulsüz su verenin son tahakkuk miktarýnýn 3 katý su tüketim bedeli abonenin türüne göre tarife bedeli üzerinden ceza tahakkuku yapýlýr.
+      b) Baðlantý sayaçtan önce yapýlmýþsa, kaçak su kullananlara uygulanan iþlemler yürütülür ve tüketmiþ olduklarý su miktarý, ortalama tüketim miktarýna göre hesaplanýr ve tarife bedelinin 10 katý üzerinden ceza tahakkuku yapýlýr. Yasal iþlemler baþlatýlýr.
+      c) Gemilere sayaçtan geçirilerek su satýþý yapýldýðý tespit edildiðinde abonenin son tahakkuk miktarýnýn tarife bedelinin 5 katý üzerinden ceza tahakkuku yapýlýr.
+      d) Gemilere sayaçtan geçirmeden su satýþý yapýldýðý tespit edildiðinde aboneye kaçak su kullananlara uygulanan iþlemler yürütülür ve tüketmiþ olduklarý su miktarý, ortalama tüketim miktarýna göre hesaplanýr ve tarife bedelinin 10 katý üzerinden ceza tahakkuku yapýlýr. Yasal iþlemler baþlatýlýr.
+      
+      (7) Abonenin faaliyet türüne göre farklý abone grubundan su tükettiðinin tespit edilmesi halinde; düþük tarife bedelinden su kullanýlan dönemler için güncel tarife bedeline göre fark tahakkuku hesaplanýr, yüksek tarife bedelinden su kullanýlan dönemler için tahakkuk düzeltmesi yapýlýr.
+Þebeke haricinde kaçak ve usulsüz su kullanma
+       MADDE 41 - (1) Ýdareye ait su þebekesi haricinde kuyu, kaptaj, havuz, gibi tesislerden veya tankerle yeraltý ve yüzeysel sularý temin ederek deþarj edenler, denizden su temin edenler, Ýdarenin vidanjör hizmeti gibi kanalizasyon ve kullanýlmýþ sularýn uzaklaþtýrma hizmetlerinden faydalananlar ile arýtma hizmeti gibi nihai bertaraf hizmetlerini alanlar, alacak olanlar tükettikleri kadar suyu kirleteceklerinden Ýdare ile Kullanýlmýþ Sularýn Uzaklaþtýrýlmasýna iliþkin Atýksu abonelik sözleþmesi yapmak; bunlarýn nihai bertarafý ve uzaklaþtýrýlmasý için Kullanýlmýþ Sularýn Uzaklaþtýrma Bedelini
+ödemek zorundadýrlar.	3
+(2) Tüketilen beher m	su üzerinden alýnan kullanýlmýþ sularýn uzaklaþtýrma bedeli; Bu
+Yönetmeliðin 5 inci maddesine göre hesaplanan su m3 fiyatýnýn bedeli üzerinden abone grubu, özellikleri ve tarifesine göre uygulanýr.
+      (3) Atýksu Abonelik Sözleþmesi yapmadan kanalizasyon þebekesinden faydalananlar, nihai bertaraf hizmeti verilenler ve verilecek olanlar tespit edildiðinde, haklarýnda hemen tutanak tanzim edilir. Bu tutanakta kaçak ve usulsüz baðlantýnýn þekli, ölçülen su miktarý, kaçak ve usulsüz kullanýmýnýn süresi; sayaçlý kullaným ise, sayaca müdahale olup olmadýðý gibi bilgiler ayrýntýlý olarak kaydedilir. Tutanak 3 suret olarak hazýrlanýr. Ýlgilinin de imzasý alýnarak bir suret ilgiliye býrakýlýr. Ýlgilinin bulunmamasý veya imzadan imtina etmesi halinde tutanak üzerinde bu durum belirtilmek suretiyle denetlenen yere býrakýlýr. Bu þekilde düzenlenen ve býrakýlan tutanak bildirim yerine geçer. Bu sebeple hakkýnda tutanak tanzim edilenler 7 gün içinde Ýdareye müracaat ederek atýksu aboneliði tesis etmek ve tahakkuk edecek bedeli ödemek zorundadýr.
+a) Atýksu abonesi olmadan sayaçlý olarak þebeke harici su kullananlar tespit edildiðinde;
+      1) Konutlarda; sayacý iþleterek su kullanýyorsa, kayýtlý endeks, yürürlükteki konutlara iliþkin atýksu tarifesi üzerinden 2 katý bedelle tahakkuk edilir.
+      2) Ýnþaat, iþyeri, sanayi kuruluþlarý ve benzerlerinde; sayacý iþleterek su kullanýyorsa, kayýtlý endeks, yürürlükteki ait olduðu abone grubuna iliþkin atýksu tarifesi üzerinden 2 katý bedelle tahakkuk edilir.
+b) Atýksu abonesi olmadan sayaçsýz olarak þebeke harici su kullananlar tespit edildiðinde;
+      1) Konutlarda; tespit edilebilmiþse kullanýmýn baþladýðý tarihten, edilememiþ ise bulunduðu bölgenin Ýdarenin hizmet sýnýrlarýna dahil olduðu tarihten itibaren, ayda 15 m3 su tüketildiði farz
+edilerek, bulunacak tüketim, yürürlükteki konutlara iliþkin atýksu tarifesi üzerinden 3 katý bedel ile tahakkuk ettirilir.
+      2) Tutanak tarihinden itibaren 7 gün içerisinde müracaat ederek 30 gün içinde abonelik açan ve sayaç baðlayan Ýnþaat, iþyeri, sanayi kuruluþlarý ve benzerlerinde; sayaçlý tüketimleri en az 3 dönem gözlenir ve bulunacak ortalama günlük tüketim miktarý üzerinden kullaným tarihi tespit edilebilmiþse kullanýmýn baþladýðý tarihten, edilememiþ ise bulunduðu bölgenin Ýdarenin hizmet sýnýrlarýna dahil olduðu tarihten itibaren hesaplanan tüketim, ilgili abone grubuna iliþkin yürürlükteki atýksu tarifesi üzerinden 3 katý bedel ile tahakkuk ettirilir.
+      3) Tutanak tarihinden itibaren 30 gün içerisinde sayaç baðlayýp abonelik iþlemlerini tamamlamayanlar; Bunlara abonelik tesis edilinceye kadar; tespit edilebilmiþse kullanýmýn baþladýðý tarihten, edilememiþ ise bulunduðu bölgenin Ýdarenin hizmet sýnýrlarýna dahil olduðu tarihten itibaren, literatür bilgilerinden (kuruluþun ait olduðu sektörün özellikleri, üretimin biçimi, çalýþan kiþi sayýsý ve benzer iþ kollarýnda yapýlan incelemeler veya bilirkiþi raporlarý dikkate alýnarak) hesaplanan tüketim, ilgili abone grubuna iliþkin yürürlükteki atýksu tarifesi üzerinden 4 katý bedelle tahakkuk ettirilir; abone olup sayaç baðlanýncaya kadar aylýk tüketimine karþýlýk gelen tüketim miktarý 2 katý bedelle tahakkuk ettirilmeye devam edilir.
+      c) Atýksu abonesi olup sayaçsýz olarak þebeke harici su kullananlar tespit edildiðinde; Þebeke harici kullanýmý için kayýtlý bir abonesi ve sayacý olduðu halde kayýt dýþý olarak þebeke harici su temin eden ve sayaçtan geçirmeden kullanan bu tür kullanýcýlar hakkýnda;
+      1) Konutlarda; tespit edilebilmiþse kullanýmýn baþladýðý tarihten, edilememiþ ise bulunduðu bölgenin Ýdarenin hizmet sýnýrlarýna dahil olduðu tarihten itibaren, ayda 15 m3 su tüketildiði farz
+edilerek, bulunacak tüketim, yürürlükteki konutlara iliþkin atýksu tarifesi üzerinden 3 katý bedel ile tahakkuk ettirilir.
+      2) Ýnþaat, iþyeri, sanayi kuruluþlarý ve benzerlerinde; tespit edilebilmiþse kullanýmýn baþladýðý tarihten, edilememiþ ise bulunduðu bölgenin Ýdarenin hizmet sýnýrlarýna dahil olduðu tarihten itibaren, literatür bilgilerinden (kuruluþun ait olduðu sektörün özellikleri, üretimin biçimi, çalýþan kiþi sayýsý ve benzer iþ kollarýnda yapýlan incelemeler veya bilirkiþi raporlarý dikkate alýnarak) hesaplanan tüketim, ilgili abone grubuna iliþkin yürürlükteki atýksu tarifesi üzerinden 5 katý bedel ile tahakkuk edilir;
+      
+      (4) Abone olduðu halde sayaçlý veya sayaçsýz kullaným sýrasýnda usulsüzlük yapanlar hakkýnda da tutanak tanzim edilir. Hakkýnda tutanak düzenlenenler 7 gün içerisinde Ýdareye baþvurup, tutanakta belirtilen fiiliyle ilgili iþlemleri yapmak zorundadýr.
+      a) Aboneler sayaçlarýný Ýdarenin gösterdiði yere takmak ve korumakla yükümlüdür. Sanayi tipi sayaçlarýn önüne filtre takýlmasý zorunludur.
+      b) Ýdarenin haberi olmadan sayacýn düzgün çalýþmasýnýn engellendiði, devre dýþý býrakýldýðý, söküldüðü, yerinin deðiþtirildiði, resmi mührünün kopartýldýðý, Ýdare tarafýndan sayaç rakorlarýna takýlan mühürlerin söküldüðü, sayacýn baþka bir sayaçla deðiþtirildiði, sayacýn sökülüp ters baðlandýðý, kasten kýrýldýðý, kullanýlmayacak hale getirildiði, yok edildiði tespit edildiðinde tüketimi ortalama olarak hesaplanýr ve ilgili abone grubuna iliþkin yürürlükteki atýksu tarifesi üzerinden 5 katý bedelle tahakkuk ettirilir.
+c) Sayacýn bozulmasý veya Ýdarenin gerekli gördüðü durumlarda yedek sayaç takýlarak tahakkuk
+yapýlmaya devam edilir. Yedek sayacýn olmamasý halinde mevcutsa sayaç bedeli karþýlýðýnda Ýdareden temin edilir, mevcut deðilse abone en geç 1 ay içinde sayacýný temin etmek ve Ýdare gözetiminde sayacý takmak zorundadýr. Sayaç temin edilinceye kadar hesaplanacak ortalama tüketim miktarý 2 ile çarpýlmak suretiyle tahakkuk ettirilir. Ortalama tüketimin hesaplanamamasý halinde kullanýcýnýn ait olduðu sektörün özellikleri, üretimin biçimi, çalýþan kiþi sayýsý ve benzer iþ kollarýnda yapýlan incelemeler veya bilirkiþi raporlarý dikkate alýnarak genel ortalama tüketim hesaplamasý yapýlýr.
+      d) Sayaç üzerindeki mühürün abone müdahalesi haricinde oksitlenme, korozyon gibi sebeplerle kopmuþ olmasý, sayaç bakýmý nedeniyle sayacýn sökülmesi gibi durumlarda Ýdareye bildirilmesi ve yerinde tespiti yapýlarak sayaçtaki mevcut endeks geçmiþ dönem su tüketimleriyle uyum arz etmesi kaydýyla bu maddenin dördüncü fýkrasýnýn ( a ), ( b ) ve ( c ) bentlerinde belirtilen cezalar uygulanmaz.
+Ýzinsiz kanal baðlantýsý
+      MADDE 42- (1) Kanalizasyon hattý bulunan yerlerde; atýksularýn kanalizasyona baðlanmasý hak ve mecburiyettir. Ýdare tarafýndan onaylanmýþ atýksu baðlantý projesi olmaksýzýn kanalizasyon þebekesine baðlantý yapýlamaz. Atýksular çevreye ve alýcý ortamlara deþarj edilemez, kanalizasyon þebekesi tahrip edilemez.
+      (2) Kanalizasyon baðlantýsý yapmayan ve/veya kanala kaçak baðlanan yerler tespit edildiðinde, atýksu kanal baðlantýlarýný ve atýksu çukurunu 30 gün içerisinde Ýdare yönetmelik ve yönergelerine uygun hale getirilmesi istenir. Ýstenilen þartlarýn yerine getirilmemesi halinde kanal baðlantýsý veya atýksu çukuru Ýdare tarafýndan yapýlýr, bedeli sorumlusundan %50 fazlasýyla tahsil edilir.
+      (3) Atýksu baðlantý projeleri Ýdare tarafýndan tasdik edilmiþ olduðu halde projesine uygun baðlantý yapmayanlar, atýksularýný yaðmur suyu þebekesine baðlayanlar ile çatý, drenaj, zemin ve yaðmur sularýný atýksu kanalýna baðlayanlara baðlantýnýn iptali için 30 gün süre verilir. Süre sonunda baðlantý iptal edilmemiþse iptal edilinceye kadar aylýk olarak tüketmiþ olduklarý su miktarýnýn 2 katý atýksu bedeli karþýlýðý ceza tahakkuku yapýlýr. Ayrýca baðlantýnýn kaldýrýlmasýyla ilgili Ýdare tarafýndan varsa yapýlan masraflar tahakkuk ettirilir.
+      (4) Yaðmur suyu kanallarýna kaçak baðlantý yaparak veya arýtmadan veya görev yapmayan arýtma tesisinden geçirerek atýksularýný aktaranlarýn 30 gün içerisinde Ýdare yönetmelik ve yönergelerine uygun hale getirilmesi istenir. Ýstenilen þartlarýn yerine getirilmemesi halinde kanal baðlantýsý veya atýksu çukuru Ýdare tarafýndan yapýlýr, bedeli sorumlusundan %100 fazlasýyla tahsil edilir. Tekrarýnda baðlantý varsa iptal edilip tüm giderler 2 kat bedelle tahsil edilir. Üçüncü tekrarýnda 3 katý kadar ödeme yaptýrýlýr, atýksu çukuru veya tesisi yapýlýncaya kadar sularý kapatýlýr.
+      (5) Kullanýlmýþ sularýný kanalizasyon sistemine baðlamadan çevreye zarar verecek þekilde deþarj edenler hakkýnda yasal ve hukuki iþlemler baþlatýlýr.
+Çevreye zarar verilmesi
+      MADDE 43- (1) Bina kanal tesisatý arýzalý olan, fenni olmayan ya da atýksu çukuru olmayan veya atýksu çukurunda birikmiþ sularý ile kullanýlmýþ sularýný kaçak kanallarla, dolaylý veya doðrudan denize, doðal mecralara veya açýða akýtan abonelerin sularý tesisat arýzasý giderilene veya atýksu çukuru yaptýrýlana kadar sularý kesilir. Su abonesi olmayanlar hakkýnda yasal takibat yapýlmakla birlikte, atýksu çukuru yapýlýncaya kadar da evsel nitelikte atýksu kaynaklarý için atýksu bertaraf hizmeti 3 katý bedelle; endüstriyel atýksu kaynaklarý için atýksu berataraf hizmeti 5 katý bedelle verilir. Endüstriyel atýksular için ayrýca Atýksularýn Kanalizasyona Deþarj Yönetmeliði esaslarý doðrultusunda tahakkuk yapýlýr.
+      (2) Ýdare tarafýndan; iþyerleri, sanayi tesisleri, restoranlar, yemek üretim tesisi, oto yýkama ve yaðlama istasyonlarý, akaryakýt istasyonlarý, tavuk çiftliði, mandýralar, kesimhaneler, besihaneler ve benzeri gibi Atýksularýn Kanalizasyona Deþarj Yönetmeliðinde belirtilen parametre deðerlerinin üzerinde atýksu üreten yerlerde yapýlacak inceleme ve tespit neticesinde; üretilen atýksuyun niteliðine göre uygun ön arýtma tesisi, yað tutucu, benzin ayýrýcý, ön çökertme havuzu gibi tesisleri veya bunlarý içeren arýtma tesisi kurmasý, aksi halde kanalizasyon baðlantýsýný iptal etmesi istenir. Verilen süre
+sonunda gerekli tesisi kurmayanlarýn veya baðlantýyý iptal etmeyenlerin sularý, baðlantý iptal edilinceye
+      
+veya tesis kuruluncaya kadar kesilir. Su istiyor ise suyu baðlanmaz, kanal baðlantýlarý varsa iptal edilir ve kanal iptali için yapýlan masraflar % 50 fazlasý ile kendilerinden tahsil edilir.
+      (3) Ýdareden vidanjör isteðinde bulunmayýp, atýksu çukurunda birikmiþ atýklarýný dolaylý yahut doðrudan Ýdarenin kanalizasyon sistemine, alýcý ortamlara veya açýða akýtanlarýn veya buna fýrsat verenlerin çukurlarý, Ýdare tarafýndan belirlenen vidanjör çekim ücretinin 2 katý bedelle Ýdare tarafýndan boþaltýlýr.
+      (4) Kullanýlmýþ sularýný kanalizasyon sistemine baðlamadan çevreye zarar verecek þekilde deþarj edenler hakkýnda yasal ve hukuki iþlemler baþlatýlýr.
+Ýdare tesis ve ekipmanlarýna zarar verilmesi
+      MADDE 44- (1) Ýdarenin taþýnýr veya taþýnmaz mallarý ile su ve kanalizasyon tesisleri ile bunlara iliþkin sistemleri ile sayaç ve tesisata baðlý veri aktarýmý ve kontrol ekipmanlarýndan herhangi birine zarar verenler hakkýnda devlet malýna karþý suç iþleyenlere iliþkin hükümler uygulanarak, zararýn giderilmesi için Ýdarece yapýlan tüm harcamalar ilgiliden %50 fazlasýyla tahsil edilir.
+      (2) Ýdarenin ana isale hattý ile su þebekesine verilen zarar ayný zamanda su kaybýna da yol açabileceðinden, borunun çapýna göre arýza giderilinceye kadar geçen sürede borudan akan kayýp su miktarý, Ýdare tarafýndan konutlarda uygulanan en yüksek su tarifesi üzerinden hesaplanarak zarar verenden ayrýca tahsil edilir.
+      (3) Ýdareye ait su þebekesi ve kanalizasyon hattý ile bunlara iliþkin tüm sistemlerden herhangi birine gerçek veya tüzel kiþiler tarafýndan yapýlan müdahaleler sonucunda üçüncü kiþilerin uðradýðý zararlardan müdahalede bulunanlar sorumludur. Ýdarece bu zararlarýn üçüncü kiþilere ödenmek durumunda kalýnmasý halinde yapýlan tüm ödemeler su þebekesi ve kanalizasyon hattý ile bunlara iliþkin tüm sistemlerden herhangi birine müdahale edenlerden bu Yönetmeliðin 40 ýncý ve 41 inci maddeleri ile bu maddenin 1 inci fýkrasýnda gösterildiði þekilde rücuen tahsil edilir.
+
+YEDÝNCÝ BÖLÜM
+Abonelik, Sayaç, Tahakkuk ve Tahsilâtla Ýlgili Esaslar
+Abone olma koþullarý ve uygulama esaslarý
+      MADDE 45- (1) Ýdarenin saðlayacaðý hizmetler bakýmýndan bir yerde yeni abonelik tesis edilip edilemeyeceði; yasal, idari ve teknik yönden incelenerek yapýlmasýnda sakýnca bulunmamasý halinde belirlenir.
+      (2) Ýlk abonelik için; bu Yönetmelik uyarýnca tahsili gereken bedeller baþvuru sahibine yürürlükteki tarifesi üzerinden tahakkuk edildikten sonra abonelik tesis edilir.
+      (3) Ýlk abonelik tesisi için gereken bedellerin tümü baþvuru sýrasýnda peþin olarak tahsil edilebileceði gibi taksitlendirilerek de tahsil edilebilir.
+      (4) Kullanýlamaz hale gelen veya yýkýlan yerlerde abonelikler iptal edilir. Abonelik kaydý bulunan bir yapýnýn yýkýlmasýndan sonra yerine inþaat yaptýranlar Ýdareye yeni abonelik baþvurusu yapmak zorundadýr.
+      (5) Abonelik baþvurusu yapanlardan ilgili mevzuatla belirlenen belgeler istenir. Abonelik tesisi için alýnmasý zorunlu olup elektronik ortamda Ýdarece temin edilemeyen belgelerin suretleri baþvuru sahiplerinden talep edilir.
+      (6) Ýlk abonelik tesis edilen yerlere bir abone numarasý verilir. Abonede kullanýcý deðiþikliði yapýlsa bile abone numarasý deðiþmeksizin yeni kullanýcý ile abone sözleþmesi yapýlýr.
+      (7) Ýlk aboneliðin tesisinden sonra Ýdareye bildirilen yapý ruhsatý dýþýnda bitiþik veya ayrý blok halinde inþaat yapýp ilk aboneliðindeki tesisattan bu birimlere su veren abonelerin suyu kesilir. Ayrýca bu Yönetmeliðin 40 ýncý maddesi hükümlerine göre iþlem yapýlýr.
+      (8) Milli Eðitim Bakanlýðýna baðlý resmi okullar, Kocaeli Su ve Kanalizasyon Ýdaresi Genel Müdürlüðü adýna açýlacak yerler ile ibadethanelerden bedel alýnmaksýzýn abone yapýlýr.
+      (9) Resmi Kurumlar, belediyeler ve muhtarlýk hizmet binalarý bu Yönetmelikte belirlenen abonelik ve sayaç bedelleri ilk faturalarýna tahakkuk ettirilecek þekilde resen abone yapýlýr.
+      (10) Baþvuru sahibinin belge ve beyanlarýnýn gerçeðe aykýrý olduðunun tespit edilmesi halinde, abone sözleþmesi iptal edilir ve gerçeðe aykýrý beyanda bulunduðu tespit edilen kiþiler hakkýnda adli ve idari iþlemler uygulanýr.
+
+(Deðiþik: 29.06.2020 Tarih, 7 Sayýlý ÝSU G.K.K)
+Abone sözleþmesi
+       MADDE 46- (1) Su kullanýlan her baðýmsýz birim veya yerde suyu fiilen tüketen ve/veya atýksu üreten gerçek veya tüzel kiþiler; su ve kanalizasyon hizmetlerinden birlikte veya ayrý ayrý faydalanmak üzere Ýdareye baþvurarak abone sözleþmesi yapmak zorundadýrlar. Abonelik sözleþmesi mesafeli sözleþme olarak tesis edilebilir.
+      
+(2) Abone sözleþmesi, abone veya Ýdare tarafýndan feshedilmedikçe ayný koþullarla devam eder.
+      (3) Abone, abonelikten doðan haklarýný baþkasýna devredemez, kullandýramaz; bu durumun Ýdare tarafýndan tespiti halinde su kullanýma kapatýlýr.
+      (4) Abone, sözleþme fesih talebini Ýdareye müracaat ederek veya Ýdare tarafýndan belirlenen iletiþim kanallarý üzerinden bildirmek zorundadýr. Bu talep üzerine Ýdare tarafýndan abonenin suyu kapatýlýr, varsa sayaç son endeksine kadar su tüketimi tahakkuk ettirilerek abonelik sözleþmesi feshedilir. Yeni sözleþme yapýlana kadar su kullanýma açýlmaz.
+      (5) Önceki abonelerin borçlarýndan yeni abone sorumlu tutulamaz. Abonelikteki borçlardan mal sahibinin sorumlu olmasý durumunda bu borçlar ödenmeden kiracýsý veya mal sahibi adýna yeni abonelik tesis edilmez.
+      (6) Baþka bir abonelikten dolayý borcu olan kiþilerle bu borç ödenmeden veya taksite baðlanmadan yeni abonelik sözleþmesi yapýlmaz. Gerçek veya tüzel kiþinin adýna farklý aboneliklerin bulunmasý ve bu aboneliklerden herhangi birinin borcunun bulunmasý halinde borç olmayan diðer aboneliðin suyu kapatýlabilir.
+       (7) Vefat eden abonenin borç ve alacaklarý varislerine intikal eder. Abonenin varisleri abonenin ölüm tarihinden itibaren 4 ay içinde Ýdareye baþvurarak aboneliðe tahakkuk eden tüm borçlarý ödeyerek sözleþmeyi fesih ettirmek zorundadýr. Abonelik devir sözleþmesi ile varislerden biri adýna tekrar abone açýlabilir.
+
+Sayaç temin mükellefiyeti
+      MADDE 47- (1) Sayaçlar, aboneye Ýdare tarafýndan temin edilir. Ýdarenin stoklarýnda gerekli tip ve çapta sayaç olmamasý halinde Ýdarece belirlenen tip ve çapa uygun, onay vereceði sayaç abone tarafýndan temin edilebilir.
+      (2) Yüksek tüketimli aboneler ile Ýdare, sayaçlarýn arýza yapma ihtimaline karþý yedek sayaç bulundurur.
+Sayaçlar
+      MADDE 48- (1) Abonelerin tükettiði su miktarý, suyun kullaným biçimi, suyun niteliði göz önünde bulundurularak standartlara uygun sistem, çap ve tiplerde, ayarlý, damgalý ve mühürlü sayaçlarla ölçülür.
+      (2) Sayaçlar, Ýdare tarafýndan tespit edilen ve yatay konumda okunmasý kolay olan bir yere takýlýr. Ýdare müstakil yapýlarda ya da sitelerde, apartmanlarda, bahçeli veya bahçesiz yapýlarda, etrafý duvarlarla çevrilmiþ veya çevrilmemiþ ve benzeri yapýlarda, sayaçlarýn nereye konulacaðýna dair standart bir uygulama belirlemeye, buralarda kaçak ya da usulsüz kullanýmlarýn tespiti için parselin dýþýnda þube yoluna ana bir sayaç takmaya yetkilidir.
+      (3) Su sayaçlarýnýn ve baðlý ekipmanlarýnýn, Ýdarenin belirleyeceði þekilde korunmasý, donmaya, buharlanmaya ve dýþ etkilere karþý önlem alýnmasý abonelerin yükümlülüðündedir. Gerektiðinde sayaçlarýn muhafazasý için yapýlacak koruma kutularý, Ýdare tarafýndan belirlenen standartlara uygun olarak, masraflarý abone tarafýndan karþýlanarak yaptýrýlýr.
+      (4) Sayaç çapý, sayaç yeri abonenin talebi veya Ýdarenin gerekli gördüðü hallerde deðiþtirilebilir. Ýdarenin yerinde yapacaðý incelemeden sonra uygun görmesi halinde deðiþiklik, sayaç, sayaca baðlý tesisat ve montaj bedelleri karþýlýðýnda Ýdare tarafýndan veya Ýdarenin gözetiminde abone tarafýndan gerçekleþtirilir. Ýzin almadan sayaç yerini veya sayaç çapýný deðiþtirenler hakkýnda, bu Yönetmeliðin ilgili maddesi hükümleri uyarýnca iþlem yapýlýr.
+      (5) Birden fazla birimi olan binalarda, her baðýmsýz birime ayrý sayaç ile su verilmesi esastýr. Ancak Ýdarenin gerekli görmesi halinde ortak abonelik de tesis edilebilir.
+       (6) Ýdarece onaylanmýþ görevli kimlik kartýný taþýyan personel, aboneliðin bulunduðu yerdeki su ve atýksu altyapýsýný, yaðmur suyu drenaj sistemlerini, su ve kanal tesisatýný ve sayaçlarý incelemeye, kontrol etmeye, sayaçlarý okumaya, sökmeye, deðiþtirmeye, numune alarak laboratuvarda analiz ettirmeye, suyu kapatmaya, açmaya yetkilidir. Kimlik belgesi gösterildiði halde, abonenin yukarýda sayýlan iþleri engellemesi halinde, abonenin suyu kapatýlýr. Ýdarenin resen iþlem yapma hakký saklýdýr.
+      (7) Aboneliðe ilk kez sayaç takýlmasý veya sayacýn deðiþtirilmesi durumunda, sökülen ve takýlan sayacýn markasý, numarasý, damga yýlý, çapý, kaydettiði su endeksi tespit edilerek sayaç deðiþtirme iþ emrine yazýlýr.
+(8) Ýdare, gerekli gördüðü hallerde abonenin mevcut mekanik sayacýný, kartlý su sayacý ile
+deðiþtirmeye yetkilidir. Kartlý sayaçlarla ilgili uygulanacak usul ve esaslar yönerge ile belirlenir.
+      (9) Ýdare, kayýtlý su sayacýný kaybeden ya da çaldýran aboneden yeni sayaç bedeli ile sayaç sökme takma bedelini alýr.
+      (10) Ýdarece gerekli görülen hallerde abonenin su sayacýnýn doðru çalýþýp çalýþmadýðýnýn kontrolü amacýyla sayacý deðiþtirilebilir.
+(11) Abonelerin sayaca baðlý tesisat üzerindeki pislik tutucu ve vanalarýnda arýza tespit
+      
+edildiðinde Ýdare tarafýndan pislik tutucu ve/veya vana bedelleri karþýlýðý yenisi ile deðiþtirilir. Pislik tutucu ve/veya vana montajý için bedel alýnýr.
+      (12) Su kayýp kaçaklarýnýn önlenmesi, tahsilat oranýnýn arttýrýlmasý amacýyla kýsmi veya bölgesel olarak uygulanacak projeler kapsamýnda yapýlacak sayaç deðiþikliklerinde sayaç ve sayaç sökme/takma bedeli ile oluþabilecek diðer bedellerin alýnýp alýnmayacaðý proje bazlý olarak Yönetim Kurulu tarafýndan belirlenir.
+Su sayacý kontrol talebi
+      MADDE 49- (1) Abone, su sayacýnýn doðru ölçüm yapmadýðý gerekçesiyle þikayetli muayene talebinde bulunabilir.	Ýdarece sayacýn mührünün saðlam olup olmadýðý ve sayaca herhangi bir müdahalenin yapýlmadýðýna dair fiziki muayenesi yapýlýr. Sayaç yenisiyle deðiþtirilir ve sökülen sayaç ilgili Bakanlýk birimine þikayetli muayene iþlemi için gönderilir.
+       (2) Þikayetli muayene sonucunda sayacýn doðru çalýþtýðý tespit edilirse, sayaç bedeli ve sayaç sökme takma ve/veya montaj bedeli aboneden alýnýr. Muayene sonucunda sayacýn hatalý çalýþtýðý ve hatanýn aboneden kaynaklanmadýðý tespit edilirse sayaç bedeli ile montaj bedeli alýnmaz. Abonenin þikayete konu tahakkuklarýnda düzeltme iþlemi bu Yönetmeliðin 52 nci maddesine göre yapýlýr.
+Tahakkuk ve tahsilat esaslarý
+      MADDE 50 (1) Su ve atýksu bedeli, bu Yönetmelik ve Genel Kurul kararýyla belirlenen diðer hizmet bedelleri ve alacaklar, mevzuat gereði su faturalarý üzerinden tahsilatý öngörülen diðer yasal alacaklarla birlikte, yürürlükteki tarifelere göre tahakkuk ve tahsil edilir.
+      a) Dönemsel tahakkuk: Abonelerin sayaç üzerindeki su tüketimleri Ýdarenin görevlilerince veya uzaktan okuma sistemleri ile periyodik okunarak bir önceki okuma ile arasýndaki fark bulunmak suretiyle aylýk dönemler halinde tahakkuk ettirilir.
+1) Tahakkuk ve tahsilâtýn hýzlandýrýlmasý amacýyla veya özel hallerde, tahakkuk dönemlerinde
+deðiþiklik yapmaya Yönetim Kurulu yetkilidir.
+2) Okuma dönemlerinde 3 m3 ü aþmayan su tüketimlerinin tahakkuklarý o dönem yapýlmaz, bir
+sonraki dönemle birlikte yapýlýr.
+      3) Ortak abone sayacýndan su alan tüm abonelerin dönemsel olarak tükettikleri toplam su miktarý, ayný dönem ortak sayaçtan tüketilen toplam su miktarýndan çýkarýlmak suretiyle bulunan tüketimin toplam tüketime oraný %5 ve altýnda ise tahakkuk yapýlmaz.
+      b) Ara tahakkuk: Abonelerin talebi, Ýdarenin gerekli gördüðü haller ve sayaç deðiþimleri nedeniyle okuma dönemleri dýþýnda tüketim miktarýna göre güncel tarife tutarý üzerinden ara tahakkuk yapýlabilir.
+      c) Genel tahakkuk: Ýdare ile abone iliþkisi bulunmayan veya abone olmakla birlikte su ve atýksu faturalarýyla birlikte tahakkuk etmemesi gereken tüketim karþýlýðý olmayan bedellere genel tahakkuk yapýlabilir.
+      d) Ek tahakkuk: Bir tahakkuk dönemi içerisinde sayaç deðiþimleri nedeniyle alýnan endeks farkýna veya yapýlan ortalama tüketim miktarýna göre hesaplanan su, atýksu bedelleri ile hizmet bedelleri ilk dönemsel tahakkukla birlikte faturalandýrýlmak üzere ek tahakkuk olarak kaydedilirler.
+      e) Fatura ve ödeme bildirimi: Bütün tahakkuklar için fatura bildirimi düzenlenir. Fatura bildirimi ve tahakkuklarýn ödenmemesi halinde düzenlenen ödeme bildirimi, abonenin abonelik adresinde kendisine, birlikte bulunduðu yakýnýna veya þirketlerde yöneticisi veya görevlilerine verilir. Faturalarýn teslimi sýrasýnda abonelikte kimsenin bulunmamasý halinde; abonenin baðýmsýz bölümüne, sayacýn bulunduðu yere veya posta kutusuna býrakýlmasý, ayrýca, abonenin kabulü halinde cep telefonuna veya elektronik posta adresine gönderilmesi ile doðrudan bildirim yapýlmýþ sayýlýr.
+      (2) Türüne ve abone grubuna göre tahakkuklara 60 günü geçmemek þartýyla son ödeme tarihi itibariyle kaç günlük ödeme süresi verileceðini tespit etmeye Yönetim Kurulu yetkilidir.
+      (3) Sayaçlarýn kaydettiði miktar abone tarafýndan tüketilmiþ sayýlýr ve tüketim tahakkuklarý buna göre düzenlenir. Ancak aþaðýda belirtilen durumlarda farklý biçimde hesaplamalar yapýlabilir.
+      a) Sayacýn aboneden dolayý okunamamasý: Abonenin, sayaç yerinin kilitli olmasý sayacýn fiziki durumunun ve yerinin uygun olmamasý gibi nedenlerle sayacýnýn okunamamasý durumunda;
+       1) Aboneye sayaç yerinin düzeltilmesi için Ýdarece tebligat yapýlarak süre verilir. Verilen süre sonunda sayaç yerini düzeltmeyen abonenin suyu kullanýma kapatýlýr.
+      2) Sayacýn buharlý olmasý nedeniyle endeksinin okunamamasý durumunda, abonenin ortalama tüketimleri kýyas alýnmak suretiyle, bir sonraki dönem tüketiminden mahsup edilmek üzere tahakkuk yapýlýr. Bu þekilde üst üste en fazla iki dönem tahakkuk yapýlabilir. Ýkinci tahakkuk döneminde de endeks tespit edilememiþ ise, abonenin sayacý deðiþtirilir.
+      3) Sayacýn yerinin okunmasýna engel teþkil ettiði hallerde Ýdare sayaç yeri ve tesisatýnda yeniden düzenleme yapabilir ve bedelleri aboneye tahakkuk ettirilir.
+      b) Sayacýn tüketimi kaydetmemesi: Sayacýn çalýþmasýnýn durduðu, endeksinin düzgün ilerlemediði durumlarda;
+      
+      1) Aboneye ortalama tüketimi kýyas alýnmak suretiyle tahakkuk yapýlýr. Abonenin önceki tüketimlerine iliþkin bir veriye ulaþýlamamasý halinde bu fýkranýn (e) bendinin ikinci alt bendine göre tahakkuk yapýlýr.
+      2) Abonenin, ortalama tüketim hesabýnýn yapýldýðý tarih aralýðýnda su kullanmadýðýný iddia etmesi durumunda, elektrik tüketim bilgisi veya tevsik edici herhangi bir harici veri dikkate alýnarak iþlem yapýlýr.
+      3) Sayacýn bozulmasý, ölçüm hassasiyetini yitirmesi, ekonomik ömrünün dolmasý nedeniyle endeksinin ilerlemediði tespit edildiðinde sayaç deðiþtirilir.
+      c) Sayacýn patlak olmasý: Donma nedeniyle patlayan sayacýn ölçüm saðlayan mekanizmasýnýn etkilenmediði durumlarda endeks deðerleri doðru kabul edilerek tahakkuk yapýlýr. Mekanizmanýn etkilendiðinin tespiti halinde abonenin ortalama tüketimi kýyas alýnmak suretiyle tahakkuk yapýlýr. Mekanizmanýn etkilenmediði yolundaki itirazlar için bu Yönetmeliðin 49 uncu madde hükümlerine göre ayrýca iþlem yapýlýr.
+       ç) Kartlý sayaç tahakkuklarý: 1) Kartlý su sayacýnýn görevi, sayacýn hafýzasýna yüklenmiþ olan kredinin bitmesi halinde otomatik olarak vanasýný kapatmasý ve su geçiþine izin vermemesidir. Bu nedenle kredisi bittiði halde, herhangi bir sebeple vana kapanmaz ve sayaç fazla tüketim göstererek borç kaydeder ise ilgili bakanlýk raporuna göre abone, tüketilen bedeli ödemekle yükümlüdür.
+      2) Kartlý sayaç kullanan abonelere yapýlacak tahakkuk ve tahsilatlarýn usul ve esaslarý yönergeyle belirlenir.
+      d) Geçici durdurma: Abone geçici olarak su kullanmayacaðýný yazýlý olarak bildirmiþ ise, bildirdiði tarihe denk gelen döneme kadar abonenin suyu geçici olarak kullanýma kapatýlýr.
+      e) Ortalama tüketim tahakkuku hesabý: Ýdarenin sayaç ve endeksle ilgili olarak tespit ettiði olumsuz durumlar ile kaçak ve usulsüz su kullanýmlarýnda tüketilen suyun hesaplanmasý için günlük, aylýk, yýllýk ortalama tüketim miktarlarý hesaplanýr.
+      1) Dönemsel ve ara tahakkuklar için ortalama tahakkuk daha önce tahakkuku normal yapýlan son üç dönem ortalama sarfiyatý dikkate alýnarak belirlenir ve tahakkuk ettirilir. Bu þekilde hesaplanan tüketim miktarýnýn genel tüketim ortalamasýndan daha az olduðu durumlarda genel ortalama tüketimine göre ek tahakkuklar yapýlabilir.
+      2) Daha önce normal tahakkuku olmayan abonelerin ortalama tahakkuku, aylýk olarak konutlarda 15 m3, birden fazla tuvalet ve lavabosu bulunmayan ve faaliyetinin ana unsuru olarak su kullanýlmayan ofis, büfe, bakkal gibi iþyerlerinde 10 m3, diðer iþyerlerinde ve inþaatlarda 30 m3, sanayi kuruluþlarýnda ve diðer abonelerde 100 m3 den az olmayacak miktar üzerinden ve emsalleri de göz
+önünde bulundurularak hesaplanýr.
+Özel hizmet bedeli
+      MADDE 51- (1) 2560 sayýlý Kanun gereði þahýs, kurum ve kuruluþlar için yapýlan özel hizmetler karþýlýðýnda, kanun ve yönetmelik hükümlerine göre ilgililerden alýnan bedellerdir.
+Tahakkuklarýn düzeltilmesi
+      MADDE 52- (1) Abonelik tesis edilip edilmediðine bakýlmaksýzýn gerçek ve tüzel kiþiler Ýdare tarafýndan kendilerine yapýlan tahakkuklara itiraz edebilirler. Þikayet muayenesi halinde bu Yönetmeliðin 49 uncu madde hükmüne yapýlacak iþlemler sonrasýnda düzenlenen rapora göre, diðer itirazlar ise aþaðýda belirlenen sebeplere göre tahakkuk düzeltme iþlemleri yapýlýr.
+      a) Tahakkuk düzeltme sebepleri: 1) Ýdare elemanlarýnca veya abone tarafýndan su sayaçlarýnýn hatalý okunmasý,
+      2) Ýlgili Bakanlýk teþkilatýnca düzenlenen sayaç muayene raporunda, tüketim göstergesine itibar edilemeyeceðinin belirtilmesi,
+3) Su sayaçlarýnýn sökülmesi ve takýlmasý esnasýnda, endekslerin hatalý tespit edilmesi,
+      4) Su sayacýnýn durduðu kanaatine varýlmasý, okunamamasý, kaçak veya usulsüz su kullanýldýðýnýn tespit edilmesi, þebeke dýþýnda baþka bir kaynaktan su temin edildiðinin anlaþýlmasý ve benzeri nedenlerle genel ortalama tüketim usulüyle tahakkuk yapýlmasý,
+5) Sayaç karýþýklýðýndan dolayý baþka bir aboneye yanlýþlýkla tahakkuk yapýlmasý,
+6) Mükerrer tahakkuk yapýlmasý,
+7) Kademeli tarife uygulamasý gerektirmesi,
+8) Abone türü, abone grubunun deðiþmesi veya kayýtlara hatalý girilmesi,
+9) Bilgisayar kayýtlarýna bilgilerin hatalý girilmesi,
+10) Atýksu bedeli alýnmamasý gereken abonelere atýksu tahakkuk ettirilmesi,
+11) Hatalý hidrofor tahakkuku,
+12) Ýptal aboneye tahakkuk çýkartýlmasý,
+13) Hatalý KDV tahakkuku çýkartýlmasý,
+14) Hatalý Çevre Temizlik Vergisi tahakkuku çýkartýlmasý,
+15) Tekrar düzeltme,
+16) Yargý kararlarýna göre tenzil, iptal ve tashih yapýlmasýnýn gerekmesi,
+      
+      b) Tahakkuk düzeltme iþlemleri: 1) Tahakkuk tarihinden itibaren 7 gün süre içinde yapýlan tahakkuk düzeltmeleri okuma personeli veya tahakkuk personeli, ilgili þef ve þube müdürünün imzasý alýnarak sonuçlandýrýlýr.
+      2) Ýlk 7 gün içinde sonuçlanmayan veya daha sonra yapýlan itirazlar nedeniyle yapýlmasý gereken tahakkuk düzeltmeleri aþaðýda belirtilen þekilde yapýlýr.
+1. 0-250 m3’e kadar olan itiraz ve tahakkuk düzeltmeleri endeks memuru, düzeltme memuru ve
+Genel Müdürün yetki vereceði Þube Müdürünün müþterek kararýyla,
+2. 251-1000 m3 ’e kadar olan itiraz ve tahakkuk düzeltmeleri ilgili Daire Baþkanlýðý teklifi ve
+ilgili Genel Müdür Yardýmcýsýnýn onayý ile,
+3. 1000 m3’ün üzerindeki bütün abone gruplarýnda düzeltme ve tahakkuklar, Genel Müdürün
+belirlediði bir komisyon tarafýndan, Genel Müdürün onayý ile yapýlýr.
+      4. Tüketim miktarýna baðlý olmayan tahakkuk düzeltmeleri, 7 günlük içinde tahakkuk personeli, þef ve þube müdürünün imzasýyla, 7 günden sonraki, 350m3 1. kademe mesken(il sýnýrlarý-mesken 1) su ve atýksu bedeli karþýlýðý-TL’ye kadar olan düzeltmeler tahakkuk personeli, þef ve þube müdürünün imzasýyla, bu bedelin üzerindeki düzeltmeler Genel Müdür Yardýmcýsý onayýyla sonuçlandýrýlýr.
+3) Tahakkuk düzeltme iþlemleri ile ilgili usul ve esaslarý yönerge ile belirlenir.
+      c) Þikayetli sayaç muayene sonucuna göre düzeltme iþlemleri: Sayacýn kontrol talebi sonrasýnda ilgili Bakanlýk teþkilatýnca düzenlenen sayaç muayene raporuna göre;
+      1) Tüketim göstergesinin tamamen hatalý olduðu tespit edilmiþ ise; itiraza konu dönem tahakkuku, ortalama tahakkuk hesabý yapýlarak düzeltilir.
+      2) Tüketim göstergesinin kýsmen ( % +, - ) hatalý olduðu tespit edilmiþ ise; hata payý oranýnda kýsmen hatalý ölçülen dönemler için tahakkuk düzeltmesi yapýlýr. Hata payý hesaplamasý, itiraza konu olan dönemden önceki iki döneme kadar yapýlabilir.
+Alacaklarýn tahsili ve taksitlendirilmesi
+      MADDE 53- (1) Tahsilat; Ýdareye ait vezne ve ödeme noktalarý, internet, Ýdare tarafýndan yetki verilen resmi ve özel kuruluþlar aracýlýðý ile yapýlýr.
+      (2) Özel hallerde, Ýdarenin yetki vereceði tahsildarlar aracýlýðýyla da mahallinde tahsilât yapýlabilir.
+      (3) Ýdare alacaklarý taksitlendirilebilir. Taksitlendirmelerde Genel Kurul tarafýndan belirlenen gecikme zammý oranýnda vade farký uygulanýr. Taksitlerin vadesinde ödenmemesi haline ayný oranda gecikme zammý tahakkuk ettirilir.
+(4) Taksitlerini zamanýnda ödemeyen abonelerin suyu kapatýlýr ve borcu yasal yollardan tahsil
+      
+edilir.
+(5) 
+Taksitlendirme usul ve esaslarý yönerge ile belirlenir.
+
+SEKÝZÝNCÝ BÖLÜM
+Diðer Hükümler
+
+Rakamlarýn düzeltilmesi
+      MADDE 54 - (1) Bu Yönetmeliðe göre hesaplanan fatura bedellerindeki kuruþlar, bir sonraki faturada hesaba dahil edilmek üzere ötelenebilir.
+Tarifelerin onaylý ilaný
+      MADDE 55- (1) Yönetim Kurulunca teklif edilen tarifeler, Genel Kurulun onayýna sunulur. Genel Kurul kararýnda onaylanan tarifelerin yürürlük tarihi belirtilmiþ ise belirtilen tarihten, belirtilmemiþ ise Genel Kurul onay tarihinden itibaren uygulanmaya baþlanýr ve uygun araçlarla halka duyurulur.
+Hizmetlerin sunumunda uyulacak usul ve esaslar
+      MADDE 56- (1) Bu Yönetmelik ve bu Yönetmelik çerçevesinde oluþturulacak diðer mevzuat hükümlerine göre sunulacak hizmetlerin yürütülmesinde; 31/07/2009 tarih ve 27305 sayýlý Resmi Gazetede yayýnlanarak yürürlüðe giren Kamu Hizmetlerinin Sunumunda Uyulacak Usul ve Esaslara Ýliþkin Yönetmelikte düzenlenen esaslara göre uygulama yapýlýr.
+Hüküm bulunmayan haller
+      MADDE 57- (1) Bu Yönetmelikle çözümü mümkün olmayan hallerde uygulamanýn ne þekilde olacaðýný Yönetim Kurulu belirler.
+Yürürlükten kaldýrýlan mevzuat
+      MADDE 58- (1) Bu Yönetmeliðin kabul edilerek yürürlüðe girmesiyle, halen yürürlükte olan 31/7/2003 tarihli ÝSU Genel Müdürlüðü Tarifeler Yönetmeliði hükümleri yürürlükten kaldýrýlmýþtýr.
+Geçiþ sürecinde teminatlar
+      GEÇÝCÝ MADDE 1- (1) Abonelerden alýnmýþ olan teminat bedelleri bu Yönetmelik hükümlerine göre güncellenir.
+      
+Geçiþ sürecinde özel su satýþ sözleþmeleri
+      GEÇÝCÝ MADDE 2- (1) Özel su satýþ sözleþmeleri devam eden aboneler için sözleþme süresi sonunda içinde bulunulan mali yýlsonuna kadar kalan süre için aylýk en az 10.000 m3 taahhüt edilecek
+þekilde sözleþme yapýlýr. Ve sonraki sözleþmeler talep halinde yýllýk olarak devam ettirilir.
+Yürürlük
+      MADDE 59- (1) Sayýþtayýn görüþü alýnarak Genel Kurulca kabul edilen bu Yönetmelik, 1/1/2020 tarihinde yürürlüðe girer.
+      (2) Bilgi iþlem altyapýsý nedeniyle uygulama yapýlamayan hususlarda çalýþma bitirilinceye kadar, yürürlükten kaldýrýlan Yönetmelik hükümlerinin uygulanmasýna devam olunur.
+Yürütme
+      MADDE 60- (1) Bu Yönetmelik hükümlerini Kocaeli Su ve Kanalizasyon Ýdaresi Genel Müdürü yürütür.
+
+
+
+
+
+
+
+
+
+
